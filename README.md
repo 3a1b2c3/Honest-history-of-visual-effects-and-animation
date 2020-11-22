@@ -4,13 +4,13 @@
 Having a shared source of history should make it easier to talk about 
 Feel free to edit add and 
 
-| Year  | Events | Source|
+| Year  | Events | Visual | Source|
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| 2020    | some wordy text | $1600 | $1600 |
+| Context  | Corona cinemas closed,        |   $12 |  $12 |
+| Context  | Corona cinemas closed,        |   $12 |  $12 |
+| Context  | Corona cinemas closed,        |   $12 |  $12 |
+| 2019    | some wordy text | $1600 | $1600 |
+
+
 
