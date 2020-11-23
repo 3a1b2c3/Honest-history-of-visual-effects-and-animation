@@ -150,16 +150,35 @@ Deluxe Entertainment Files Prepackaged Bankruptcy. Halo VFX, Encore and Hydraulx
 | **1974** |    |    |
 | Studios  |   |    |    |
 | Context  |  |    |    
+| **1970** |    |    |
+| Studios  |   |    |    |
+| Context  |  |    |    
+|    |  |    |    
+| **1966** |    |    |
+| Studios  |   |    |    |
 |    |  |    |    
 | **1957** |    |    |
 | Studios  |   |    |    |
 | Context  |  |    |    |
+|    |  |    | 
+| **1937** |    |    |
+| Studios  |   |    |    |
+| Context  |  |    |    |
+| **1935** |    |    |
+| Studios  |   |    |    |
+| Context  |  |    |    |
+|    |  |    |    
 | **1929** |    |    |
 | Studios  |   |    |    |
 | Context  |  |    |    |
 | **1928**   |    |    |
 | Studios  |   |    |    |
 | Context  |  |    |    |
+|    |  |    |   
+| **1912**   |    |    |
+| Studios  |   |    |    |
+| Context  |  |    |    |
+|    |  |    |    
 | **1893**   |    |    |
 | Studios  |   |    |    |
 | Context  |  |    |    |
