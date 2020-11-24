@@ -1,11 +1,11 @@
 # A honest history of visual effects and animation
 
 
-Having a shared source of history should make it easier to talk about 
-Feel free to edit add and 
+Having a shared source of history should make it easier to talk about where the industry it at.
+Feel free to edit and add. This is missing Japanese animation etc
 
 | Year  | Events | Visual | Source|
-| :------------ |:-----------------------------------| ---------------:| -----:|
+| :----------- |:----------------------------------- | ---------------: | -----:|
 | **2020** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
