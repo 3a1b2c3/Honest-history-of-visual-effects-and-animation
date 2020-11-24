@@ -15,173 +15,280 @@ Feel free to edit add and
 Deluxe Entertainment Files Prepackaged Bankruptcy. Halo VFX, Encore and Hydraulx VFX shut down  |    |    |
 | Context  |  Biggest global box office year of all time with $42.5 billion   |   |  https://www.businessinsider.com.au/2019-box-office-was-highest-global-ever-record-2020-1  |
 | **2018** |    |    |
-| Studios  |   |    |    |
-| Context  | #metoo movement starts, Amazon Studios executive Roy Price resigns following claims of sexual harassment  |    |    |
+| Studios  |  #metoo movement starts, Amazon Studios executive Roy Price resigns following claims of sexual harassment  |    |    |
 | **2017** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Subsidies |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    |  
 | **2016** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2015**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2014** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    |  
 | **2013** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2012**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2011** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2010**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2009** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2008** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2007**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2006** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2005**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2004** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    |  
 | **2003** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **2002**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |    |    |
 | **2000**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1999** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    |   
 | **1998** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1997**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1996** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1995**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1994** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    |   
 | **1993** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1992**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1991**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    |    |
 | **1990**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1989** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1988** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1987**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1986** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1985**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1984** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    |  
 | **1983** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1982**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1981**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1980**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    |    |
 | **1979** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    |   
 | **1978** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1977**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1976** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1975**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1974** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    | 
+| **1973** |    |    |
+| Film  |   |    |    |
+| Studios  |   |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1970** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    |    
 | **1966** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    |    
 | **1957** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    | 
 | **1937** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1935** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    |    
 | **1929** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 | **1928**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    |   
 | **1912**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 |    |  |    |    
 | **1893**   |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
-| Context  |  |    |    |
-
+| Technology  |   |    |    |
+| Context  |   |    |    | 
 
 
