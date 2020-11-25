@@ -24,7 +24,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 |    | Events | Visual | Source|
 | **2017** |    |    |
 | Film  |   |    |    |
-| Studios  |   |    |    |
+| Studios  |   |    | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)   |
 | Technology  |   |    |    |
 | Context  |   |    |    |  
 |    | Events | Visual | Source|
