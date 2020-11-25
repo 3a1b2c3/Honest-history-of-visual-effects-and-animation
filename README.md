@@ -9,8 +9,8 @@ Feel free to edit and add. This is missing Japanese animation etc
 | **2020** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
-| Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down  |  ![Intel Studios](https://www.protocol.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDgwMjMxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxNjQ1NjMzNX0.xgJ2etmAO3Fs_pNBc1pHZs2RylCugYFzZ7s8Ssx5ZxU/image.jpg)  | https://www.protocol.com/intel-studios-ar-vr-capture-closure   |
-| Context  | Corona cinemas closed, China has surpassed the US for movie ticket sales for the first time  |    | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
+| Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down  |  ![Intel Studios](https://www.protocol.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDgwMjMxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxNjQ1NjMzNX0.xgJ2etmAO3Fs_pNBc1pHZs2RylCugYFzZ7s8Ssx5ZxU/image.jpg  =150x)  | https://www.protocol.com/intel-studios-ar-vr-capture-closure   |
+| Context  | Corona cinemas closed, 1hin has surpassed the US for movie ticket sales for the first time  |    | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
 | **2019** |    |    |
 | Studios  |  Acquisition of 21st Century Fox (including Blue Sky Studios) by Disney. Deluxe Entertainment Files for Bankruptcy. Halo VFX, Encore and Hydraulx VFX shut down  |    |    |
 | Context  |  Biggest global box office year of all time with $42.5 billion   |   |  https://www.businessinsider.com.au/2019-box-office-was-highest-global-ever-record-2020-1  |
@@ -262,7 +262,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 |    |  |    | 
 | **1941** |    |    |
 | Film  |   |    |    |
-| Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. As a famously autocratic employer, Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually pressured into recognising the Screen Cartoonist's Guild (SCG). |  https://en.wikipedia.org/wiki/Disney_animators%27_strike |    |
+| Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. As a famously autocratic employer, Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually pressured into recognising the Screen Cartoonist's Guild (SCG). | ![Strike](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg  =150x)  |  https://en.wikipedia.org/wiki/Disney_animators%27_strike   |
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 | **1939** |    |    |
@@ -277,7 +277,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Context  |   |    |    | 
 | **1937** |    |    |
 | Film  | 1st fully animated movie called Snow White and the Seven Dwarfs  |    |    |
-| Studios  | Employees at Fleischer Studios (Koko the Clown, Betty Boop, and Popeye) would embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union |    | https://daily.jstor.org/great-animation-strike|
+| Studios  | Employees at Fleischer Studios (Koko the Clown, Betty Boop, and Popeye) would embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union | ![Strike](https://daily.jstor.org/wp-content/uploads/2020/01/the_great_animation_strike_1050x700.jpg  =150x)   | https://daily.jstor.org/great-animation-strike|
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 | **1935** |    |    |
