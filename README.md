@@ -1,7 +1,7 @@
 # A honest history of visual effects and animation
 
 
-Having a shared source of history should make it easier to talk about where the industry it at.
+Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
 Feel free to edit and add. This is missing Japanese animation etc
 
 | Year  | Events | Visual | Source|
@@ -9,7 +9,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 | **2020** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
-| Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down  |  [Intel Studios](https://www.protocol.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDgwMjMxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxNjQ1NjMzNX0.xgJ2etmAO3Fs_pNBc1pHZs2RylCugYFzZ7s8Ssx5ZxU/image.jpg)  | https://www.protocol.com/intel-studios-ar-vr-capture-closure   |
+| Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down  |  ![Intel Studios](https://www.protocol.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDgwMjMxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxNjQ1NjMzNX0.xgJ2etmAO3Fs_pNBc1pHZs2RylCugYFzZ7s8Ssx5ZxU/image.jpg)  | https://www.protocol.com/intel-studios-ar-vr-capture-closure   |
 | Context  | Corona cinemas closed, China has surpassed the US for movie ticket sales for the first time  |    | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
 | **2019** |    |    |
 | Studios  |  Acquisition of 21st Century Fox (including Blue Sky Studios) by Disney. Deluxe Entertainment Files for Bankruptcy. Halo VFX, Encore and Hydraulx VFX shut down  |    |    |
@@ -113,13 +113,13 @@ Feel free to edit and add. This is missing Japanese animation etc
 | **1998** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
-| Technology  |   |    |    |
+| Technology  | Maya 1.0 Software released |    |    |
 | Context  |   |    |    | 
 | **1997**   |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
-| Technology  |   |    |    |
-| Context  |   |    |    | 
+| Technology  | Grand Theft Auto, the first game in the series, was released for Microsoft Windows  |    |    |
+| Context  | Netflix, Inc. an American content platform and production company headquartered in Los Gatos, California founded   |    |    | 
 | **1996** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
