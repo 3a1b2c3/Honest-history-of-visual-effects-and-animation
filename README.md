@@ -1,4 +1,4 @@
-# A honest history of visual effects and animation
+# A more honest history of visual effects and animation
 
 
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
@@ -24,24 +24,24 @@ Feel free to edit and add. This is missing Japanese animation etc
 |    | Events | Visual | Source|
 | **2017** |    |    |
 | Film  |   |    |    |
-| Studios  |   |    | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)   |
-| Technology  |   |    |    |
-| Context  |   |    |    |  
+| Studios  |   |    | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Technology  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Context  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 |    | Events | Visual | Source|
 | **2016** |    |    |
-| Film  |   |    |    |
-| Studios  |   |    |    |
-| Technology  |   |    |    |
-| Context  |   |    |    | 
+| Film  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Studios  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Technology  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Context  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 |    | Events | Visual | Source|
 | **2015**   |    |    |
-| Film  |   |    |    |
-| Studios  | As a part of restructuring of DreamWorks Animation, PDI/DreamWorks closed |    |    |
-| Technology  |   |    |    |
-| Context  |   |    |    | 
+| Film  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Studios  | As a part of restructuring of DreamWorks Animation, PDI/DreamWorks closed (ca 500 employees) |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Technology  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Context  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | 
 |    | Events | Visual | Source|
 | **2014** |    |    |
-| Film  |   |    |    |
+| Film  |   |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 | Studios  |   |    |    |
 | Technology  |   |    |    |
 | Context  |   |    |    |  
@@ -289,24 +289,24 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Context  |   |    |    | 
 | **1935** |    |    |
 | Film  |   |    |    |
-| Studios  |  20th Century Studios founded |    |    |
+| Studios  |  20th Century Studios founded |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 |    |  |    |    
 | **1929** |    |    |
-| Film  | Academy of Motion Picture Arts and Sciences first recognized the technical contributions of special effects to movies at its inaugural dinner in 1929, presenting a plaque for "Best Engineering Effects" to the first Best Picture Oscar winner, the World War I flying drama Wings. |    |    |
+| Film  | Academy of Motion Picture Arts and Sciences first recognized the technical contributions of special effects to movies presenting a plaque for "Best Engineering Effects" to the first Best Picture Oscar winner, the World War I flying drama Wings. |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 | Studios  |   |    |    |
 | Technology  |   |    |    |
-| Context  |  Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. In most countries, it started in 1929 and lasted until the late 1930s. |    |    | 
+| Context  |  Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. In most countries, it started in 1929 and lasted until the late 1930s. |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 | **1928**   |    |    |
 | Film  |   |    |    |
-| Studios  | Walt Disney Pictures  in California |    |    |
+| Studios  | Walt Disney Pictures founded in California |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 |    |  |    |   
 | **1927**   |    |    |
-| Film  |  Metropolis expressionist science-fiction drama film directed by Fritz Lang  |    |    |
-| Studios  | d |    |    | 
+| Film  |  Metropolis expressionist science-fiction drama film directed by Fritz Lang  |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Studios  |   |    |    | 
 | Technology  |   |    |    |
 | Context  |   |    |    |
 | **1923**   |    |    |
@@ -317,7 +317,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 |    |  |    |   
 | **1912**   |    |    |
 | Film  |   |    |    |
-| Studios  |  Universal Pictures, Paramount Pictures founded in California |    |    |
+| Studios  |  Universal Pictures, Paramount Pictures founded in California |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 |    |  |    |    
@@ -325,6 +325,6 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Film  |   |    |    |
 | Studios  |   |    |    |
 | Technology  |   |    |    |
-| Context  |  International Alliance of Theatrical Stage Employees (IATSE) Founded, many Animation studios are signed with The Animation Guild, IATSE Local 839 |    |    | 
+| Context  |  International Alliance of Theatrical Stage Employees (IATSE) Founded, many Animation studios are signed with The Animation Guild, IATSE Local 839 |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 
 
