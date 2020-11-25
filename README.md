@@ -265,9 +265,19 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. As a famously autocratic employer, Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually pressured into recognising the Screen Cartoonist's Guild (SCG). |  https://en.wikipedia.org/wiki/Disney_animators%27_strike |    |
 | Technology  |   |    |    |
 | Context  |   |    |    | 
-| **1937** |    |    |
-| Film  | 1st fully animated movie in 1937 called ‘Snow White and the Seven Dwarfs  |    |    |
+| **1939** |    |    |
+| Film  |   |    |    |
 | Studios  |   |    |    |
+| Technology  |   |    |    |
+| Context  |  World War II  was a global war that lasted from 1939 to 1945. It involved the vast majority of the world's countries—including all the great powers  |    |    | 
+| **1938** |    |    |
+| Film  |   |    |    |
+| Studios  | Fleischer Studios moved to Miami, where union presence was much weaker.  |    |    |
+| Technology  |   |    |    |
+| Context  |   |    |    | 
+| **1937** |    |    |
+| Film  | 1st fully animated movie called Snow White and the Seven Dwarfs  |    |    |
+| Studios  | Employees at Fleischer Studios (Koko the Clown, Betty Boop, and Popeye) would embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union |    | https://daily.jstor.org/great-animation-strike|
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 | **1935** |    |    |
@@ -283,13 +293,18 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Context  |  Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. In most countries, it started in 1929 and lasted until the late 1930s. |    |    | 
 | **1928**   |    |    |
 | Film  |   |    |    |
-| Studios  | Walt Disney Pictures  |    |    |
+| Studios  | Walt Disney Pictures  in California |    |    |
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 |    |  |    |   
+| **1927**   |    |    |
+| Film  |  Metropolis expressionist science-fiction drama film directed by Fritz Lang  |    |    |
+| Studios  | d |    |    | 
+| Technology  |   |    |    |
+| Context  |   |    |    |
 | **1923**   |    |    |
 | Film  |   |    |    |
-| Studios  |  Warner Bros. Pictures founded |    |    | 
+| Studios  |  Warner Bros. Pictures founded  in California |    |    | 
 | Technology  |   |    |    |
 | Context  |   |    |    |
 |    |  |    |   
