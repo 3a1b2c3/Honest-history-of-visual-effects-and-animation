@@ -9,21 +9,26 @@ Feel free to edit and add. This is missing Japanese animation etc
 | **2020** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
-| Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down  | ![Intel Studios](https://www.protocol.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDgwMjMxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxNjQ1NjMzNX0.xgJ2etmAO3Fs_pNBc1pHZs2RylCugYFzZ7s8Ssx5ZxU/image.jpg =150x)  | https://www.protocol.com/intel-studios-ar-vr-capture-closure   |
+| Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down  | ![Intel Studios](https://www.protocol.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDgwMjMxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxNjQ1NjMzNX0.xgJ2etmAO3Fs_pNBc1pHZs2RylCugYFzZ7s8Ssx5ZxU/image.jpg)  | https://www.protocol.com/intel-studios-ar-vr-capture-closure   |
 | Context  | Corona cinemas closed, 1hin has surpassed the US for movie ticket sales for the first time  |    | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
+
+|   |    |    |
 | **2019** |    |    |
 | Studios  |  Acquisition of 21st Century Fox (including Blue Sky Studios) by Disney. Deluxe Entertainment Files for Bankruptcy. Halo VFX, Encore and Hydraulx VFX shut down  |    |    |
 | Context  |  Biggest global box office year of all time with $42.5 billion   |   |  https://www.businessinsider.com.au/2019-box-office-was-highest-global-ever-record-2020-1  |
+|   |    |    |
 | **2018** |    |    |
 | Film  |   |    |    |
-| Studios  |  #metoo movement starts, Harvey Weinstein and Amazon Studios Roy Price resigns following claims of sexual harassment  |  ![#metoo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU =150x)   |    |
+| Studios  |  #metoo movement starts, Harvey Weinstein and Amazon Studios Roy Price resigns following claims of sexual harassment  |  ![#metoo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)   |    |
 | Technology  |   |    |    |
 | Context  |   |    |    |  
+|   |    |    |
 | **2017** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
 | Technology  |   |    |    |
 | Context  |   |    |    |  
+|   |    |    |
 | **2016** |    |    |
 | Film  |   |    |    |
 | Studios  |   |    |    |
@@ -31,7 +36,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Context  |   |    |    | 
 | **2015**   |    |    |
 | Film  |   |    |    |
-| Studios  |   |    |    |
+| Studios  | As a part of restructuring of DreamWorks Animation, PDI/DreamWorks closed |    |    |
 | Technology  |   |    |    |
 | Context  |   |    |    | 
 | **2014** |    |    |
