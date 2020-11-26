@@ -124,7 +124,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 Final Fantasy: The Spirits Within First feature-length digital film to be made based on photorealism and live action principles bombs at the box office  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Technology  |    |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Context  | Economic effects arising from the September 11 attack   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Context  | Economic effects arising from the September 11 attack   |    [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 |    | Events | Visual | Source|
 | **2000**   |    |    |
 | Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
@@ -368,6 +368,11 @@ Final Fantasy: The Spirits Within First feature-length digital film to be made b
 | Studios  |   |    |    |
 | Technology  |   |    |    |
 | Context  |  International Alliance of Theatrical Stage Employees (IATSE) founded, many US animation studios are signed with The Animation Guild, IATSE Local 839 |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  | https://en.wikipedia.org/wiki/The_Animation_Guild,_IATSE_Local_839 |
+| **1888**   |    |    |
+| Film  |   |    |    |
+| Studios  |   |    |    |
+| Technology  |   |    |    |
+| Context  |  Kodak was founded by George Eastman and Henry A. Strong. During most of the 20th century, Kodak held a dominant position in photographic film |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  | https://en.wikipedia.org/wiki/Kodak https://en.wikipedia.org/wiki/The_Animation_Guild,_IATSE_Local_839 |
 
 
 
