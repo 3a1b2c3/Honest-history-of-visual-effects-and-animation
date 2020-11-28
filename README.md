@@ -7,7 +7,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Year  | <img width=400/> | <img width=150/> | <img width=150/>|
 | :----------|:----------------------------------------------- | :--: | -----:|
 | **2020** | Events &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  | Visual | Source|
-| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Film  | Corona pandemie, cinemas are closed most of the year. Major releases on streaming services (Mulan, Trolls) |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://www.theguardian.com/film/2020/oct/06/tenet-didnt-just-fail-to-save-cinema-it-may-well-have-killed-it-for-good |
 
 
 
@@ -15,7 +15,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 
 | Studios  |  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Context  | Corona pandemie, cinemas are closed. China surpasses the US for movie ticket sales for the first time  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
+| Context  | China surpasses the US for movie ticket sales for the first time  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
 |    |  |  | |
 | **2019** | Events | Visual | Source|
 | Studios  |  Acquisition of 21st Century Fox (including Blue Sky Studios) by Disney  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
