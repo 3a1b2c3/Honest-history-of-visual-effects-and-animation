@@ -8,15 +8,15 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | --            | :----------------------        |     :-:     |      --:   |
 | **2020** | Events  | Visual | Source|
 | Film  | Corona pandemie, cinemas are closed most of the year. Major releases on streaming services (Mulan, Scoob!, Trolls World Tour) |  [<img src="https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg" width="150"/>](https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg)  | https://www.esquire.com/entertainment/g31871914/movies-streaming-early-coronavirus |
-| Studios  | Paycuts and layoffs with movie production delayed, within weeks many artists can work from home |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  
+| Studios  | Paycuts and layoffs with movie production delayed, within weeks many artists can work from home |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Technology  |  Intel Studios, a 10,000-square-foot volumetric capture stage in Los Angeles shut down | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  | China surpasses the US for movie ticket sales for the first time  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
 |     |  <img width=400/> | <img width=150/> | <img width=150/>|
 | **2019** | Events | Visual | Source|
-| Film  | Marvel’s Avengers: Endgame surpasses Avatar’s record as the highest-grossing movie of all time. Nominated but wins no Oscar |  [<"https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg)  |  |
+| Film  | Marvel’s "Avengers: Endgame" surpasses Avatar’s record as the highest-grossing movie of all time. Nominated but wins no Oscar |   [<img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg)  | https://en.wikipedia.org/wiki/Avengers:_Endgame |
 | Studios  |  Acquisition of 21st Century Fox (including Blue Sky Studios) by Disney | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  Deluxe Entertainment bankruptcy. Halo VFX, Encore and Hydraulx VFX shut down  |  [<img src="https://www.pngkit.com/png/full/178-1783190_deluxe-laboratories-logo-deluxe-entertainment-logo.png" width="150"/>](https://www.pngkit.com/png/full/178-1783190_deluxe-laboratories-logo-deluxe-entertainment-logo.png)  | https://variety.com/2019/biz/news/deluxe-entertainment-prepackaged-bankruptcy-1203358036 |
-| Context  |  Biggest global box office year of all time with $42.5 billion   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |   https://www.businessinsider.com.au/2019-box-office-was-highest-global-ever-record-2020-1  |
+| Context  |  Biggest global box office year of all time with $42.5 billion | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://www.businessinsider.com.au/2019-box-office-was-highest-global-ever-record-2020-1  |
 |  |<img width=500/> | <img width=150/> | <img width=150/>|
 | **2018** |Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -263,8 +263,10 @@ won 11 Oscars |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-p
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    
-|     |   |    |    |
-| **1980**   |    |    |
+
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
+| **1980**   |  Events  | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -317,8 +319,10 @@ won 11 Oscars |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-p
 | Studios  |  Aardman Animation in Bristol was founded  to realise their dream of producing an animated motion picture |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
-|     |   |    |    | 
-| **1970** |    |    |
+
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
+| **1970** |   Events  | Visual | Source|
 | Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Studios  | MPC London established starting as a production company producing TV commercials and in 1974 the studio began delving into video  |  [<img src="https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg" width="150"/>](https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg)  | https://en.wikipedia.org/wiki/Moving_Picture_Company |
 | Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
@@ -354,9 +358,11 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Studios  | Hanna-Barbera Animation (The Flintstones, The Yogi Bear Show, The Jetsons, Wacky Races, Scooby-Doo, Where Are You!, The Smurfs and Snorks) founded. In 1996, Hanna-Barbera became a subsidiary of Warner Bros. Animation  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|     |   |    |    |  
-| **1941** |    |    |
-| Film  | Events | Visual | Source|
+
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
+| **1941** |     Events  | Visual | Source|
+| Film  |  |    |    |
 | Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. As a famously autocratic employer, Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually pressured into recognising the Screen Cartoonist's Guild (SCG). | ![Strike](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg =150x)  |  https://en.wikipedia.org/wiki/Disney_animators%27_strike   |
 | Technology  |   |    |    |
 |     |   |    |    |
@@ -383,8 +389,11 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Studios  |  20th Century Studios founded (bought by Disney in 2019) | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  | Becky Sharp” becomes first “color movie” meaning the first to use the technology of three-color Technicolor  |    |    |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|     |   |    |    | 
-| **1929** |    |    |
+
+
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
+| **1929** |   Events  | Visual | Source|
 | Film  | Academy of Motion Picture Arts and Sciences first recognized the technical contributions of special effects to movies presenting a plaque for "Best Engineering Effects" to the first Best Picture Oscar winner, the World War I flying drama Wings. |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
 | Studios  |   |    |    |
 | Technology  |   |    |    |
@@ -409,18 +418,24 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
 | **1921**   |  Events | Visual | Source|
-| Film  |   |    |    |
+| Film  |   |   [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Studios  |  Fleischer Studios founded as animation studio located in New York City (sold to  Paramount in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Technology  |  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|    |   |    |    | 
+
+
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
 | **1912**   |  Events | Visual | Source|
 | Film  |   |    |    |
 | Studios  |  Universal Pictures, Paramount Pictures founded in California |     | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|    |   |    |    |   
-|    |   |    |    |  
+
+
+
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
 | **1893**   | Events | Visual | Source|
 | Film  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
