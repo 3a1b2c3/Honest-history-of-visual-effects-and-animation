@@ -5,7 +5,6 @@ Having a shared source of history (that also includes the not so glamorous sides
 Feel free to edit and add. This is missing Japanese animation etc
 
 | Year  | <img width=400/> | <img width=150/> | <img width=150/>|
-| :----------|:----------------------------------------------- | :-- | -----:||     |  <img width=500/> | <img width=150/> | <img width=150/>|
 | **2020** | Events  | Visual | Source|
 | Film  | Corona pandemie, cinemas are closed most of the year. Major releases on streaming services (Mulan, Trolls) |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://www.esquire.com/entertainment/g31871914/movies-streaming-early-coronavirus |
 | Studios  | Paycuts and layoffs with movie production delayed, withon weeks many artists can work from home |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
