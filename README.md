@@ -5,7 +5,7 @@ Having a shared source of history (that also includes the not so glamorous sides
 Feel free to edit and add. This is missing Japanese animation etc
 
 | Year  | <img width=500/> | <img width=150/> | <img width=150/>|
-| :----------|:----------------------------------------------- | :-- | -----:|
+| :----------|:----------------------------------------------- | :-- | -----:||     |  <img width=500/> | <img width=150/> | <img width=150/>|
 | **2020** | Events  | Visual | Source|
 | Film  | Corona pandemie, cinemas are closed most of the year. Major releases on streaming services (Mulan, Trolls) |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://www.esquire.com/entertainment/g31871914/movies-streaming-early-coronavirus |
 | Studios  | Paycuts and layoffs with movie production delayed, withon weeks many artists can work from home |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
@@ -17,6 +17,7 @@ Feel free to edit and add. This is missing Japanese animation etc
 | Studios  |  Acquisition of 21st Century Fox (including Blue Sky Studios) by Disney  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Studios  |  Deluxe Entertainment bankruptcy. Halo VFX, Encore and Hydraulx VFX shut down  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://variety.com/2019/biz/news/deluxe-entertainment-prepackaged-bankruptcy-1203358036 |
 | Context  |  Biggest global box office year of all time with $42.5 billion   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |   https://www.businessinsider.com.au/2019-box-office-was-highest-global-ever-record-2020-1  |
+
 |  |<img width=500/> | <img width=150/> | <img width=150/>|
 | **2018** |Events | Visual | Source|
 | Film  |    |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
