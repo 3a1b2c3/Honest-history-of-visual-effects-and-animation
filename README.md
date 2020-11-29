@@ -381,7 +381,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 |     |   |    |    |
 | **1935** |   Events | Visual | Source|
 | Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  20th Century Studios founded (bought by Disney in 2019) | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
+| Studios  |  20th Century Studios founded, 20th Century Fox from 1985 to 2020), bought by Disney in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
 | Technology  | "Becky Sharp" becomes first “color movie” meaning the first to use the technology of three-color Technicolor  | [<img src="https://www.kinolorber.com/media_cache/images/full/738329231170.jpg" width="150"/>](https://www.kinolorber.com/media_cache/images/full/738329231170.jpg)  | https://en.wikipedia.org/wiki/Becky_Sharp_(film)  |
 | Context  |  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 
@@ -408,7 +408,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 |    | Events | Visual | Source|   
 | **1923**   |  Events | Visual | Source|
 | Film  |   |    |    |
-| Studios  |  Warner Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png " width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
+| Studios  |  Warner Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
