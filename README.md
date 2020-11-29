@@ -160,8 +160,8 @@ Feel free to edit and add. This is missing Japanese animation etc.
 |     |   |    |    |
 | **1996** | Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  | Hanna-Barbera became a subsidiary of Warner Bros. Animation | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Warner_Bros._Animation  |
-| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  | Hanna-Barbera (see 1957) becomes a subsidiary of Warner Bros. Animation | [<img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/01/Hanna-Barbera-Characters-Featured-Image.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5" width="150"/>](https://static2.srcdn.com/wordpress/wp-content/uploads/2020/01/Hanna-Barbera-Characters-Featured-Image.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5)  | https://en.wikipedia.org/wiki/Warner_Bros._Animation  |
+| Technology  | Adobe Flash Player (labeled Shockwave Flash) is a deprecated computer software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plug-in or on supported mobile devices. It lead to a revival of 2d animation outside film | [<img src="https://www.kitguru.net/wp-content/uploads/2016/03/how-update-adobe-flash-player-problems-vulnerability-hacking-team-how-disable-mozilla.jpgg" width="150"/>](https://www.kitguru.net/wp-content/uploads/2016/03/how-update-adobe-flash-player-problems-vulnerability-hacking-team-how-disable-mozilla.jpg)  | https://en.wikipedia.org/wiki/Adobe_Flash_Player  |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 |     |   |    |    |
 | **1995**   |  Events | Visual | Source|
@@ -198,7 +198,7 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | --            | :----------------------        |     :-:     |      --:   |
 | **1990**   | Events | Visual | Source|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  |  "Disney Toon Studios" opened in California, it produced (actual production was outsourced) 47 feature films, beginning with DuckTales the Movie: Treasure of the Lost Lamp in 1990. Its final feature film was Tinker Bell and the Legend of the NeverBeast in 2015 before its closure in 2018 | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Disneytoon_Studios  |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 |     |   |    |    |
@@ -358,29 +358,29 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | --            | :----------------------        |     :-:     |      --:   |
 | **1941** |     Events  | Visual | Source|
 | Film  |  |    |    |
-| Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. As a famously autocratic employer, Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually pressured into recognising the Screen Cartoonist's Guild (SCG). | ![Strike](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg =150x)  |  https://en.wikipedia.org/wiki/Disney_animators%27_strike   |
-| Technology  |   |    |    |
+| Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. As a famously autocratic employer, Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually pressured into recognising the Screen Cartoonist's Guild (SCG). | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://en.wikipedia.org/wiki/Disney_animators%27_strike"](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   https://en.wikipedia.org/wiki/Disney_animators%27_strike |
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1939** | Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Context  |  World War II  lasted from 1939 to 1945. It involved the vast majority of the world's countries—including all the great powers    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Context  |  World War II  lasted from 1939 to 1945. It involved the vast majority of the world's countries including all the great powers    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1938** |    |    |
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  | Fleischer Studios moved to Miami, where union presence was much weaker.  |    |    |
+| Studios  | Fleischer Studios moved to Miami, where union presence was much weaker  |    |    |
 | Technology  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Context  |  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Context  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |    | Events | Visual | Source|   
 | **1937** |  Events | Visual | Source|
 | Film  | 1st fully animated movie called Snow White and the Seven Dwarfs  |    |    |
-| Studios  | Employees at Fleischer Studios (Koko the Clown, Betty Boop, and Popeye) would embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union | ![Strike](https://daily.jstor.org/wp-content/uploads/2020/01/the_great_animation_strike_1050x700.jpg =150x)   | https://daily.jstor.org/great-animation-strike|
-| Technology  |   |    |    |
+| Studios  | Employees at Fleischer Studios (Koko the Clown, Betty Boop, and Popeye) would embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union | [<img src="https://daily.jstor.org/wp-content/uploads/2020/01/the_great_animation_strike_1050x700.jpg width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png) | https://daily.jstor.org/great-animation-strike||
+| Technology  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1935** |   Events | Visual | Source|
-| Film  |   |    |    |
+| Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  20th Century Studios founded (bought by Disney in 2019) | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  | Becky Sharp” becomes first “color movie” meaning the first to use the technology of three-color Technicolor  |    |    |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -390,13 +390,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | --            | :----------------------        |     :-:     |      --:   |
 | **1929** |   Events  | Visual | Source|
 | Film  | Academy of Motion Picture Arts and Sciences first recognized the technical contributions of special effects to movies presenting a plaque for "Best Engineering Effects" to the first Best Picture Oscar winner, the World War I flying drama Wings. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |   |    |    |
-| Technology  |   |    |    |
+| Studios  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Technology  | |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. In most countries, it started in 1929 and lasted until the late 1930s. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1928**   |   Events | Visual | Source|
 | Film  |   |    |    |
-| Studios  | Walt Disney Pictures founded in California |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  | Walt Disney Pictures founded in California |    | [<img src="https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733" width="150"/>](https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733)  |   |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    | Events | Visual | Source|   
@@ -422,7 +422,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1912**   |  Events | Visual | Source|
-| Film  |   |    |    |
+| Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  Universal Pictures, Paramount Pictures founded in California |     | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
