@@ -4,8 +4,8 @@
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
 Feel free to edit and add. This is missing Japanese animation etc.
 
-| Year  | <img width=400/> | <img width=150/> | <img width=100/>|
-| ---            | :--        |     :-:     |      --:   |
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
 | **2020** | Events  | Visual | Source|
 | Film  | Corona pandemie, cinemas are closed most of the year. Major releases on streaming services (Mulan, Scoob!, Trolls World Tour) |  [<img src="https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg" width="150"/>](https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg)  | https://www.esquire.com/entertainment/g31871914/movies-streaming-early-coronavirus |
 | Studios  | Paycuts and layoffs with movie production delayed, within weeks many artists can work from home |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  
@@ -330,6 +330,12 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    | 
 | **1966** |    |    |
+| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
+|     |   |    |    |  
+| **1962** |    |    |
 | Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
