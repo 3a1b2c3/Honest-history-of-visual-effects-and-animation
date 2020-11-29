@@ -41,13 +41,15 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Studios  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |   first commercial 3G networks were introduced in mid-2001  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
-| Context  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
+| Context  | VFX Trade Association Dissolved, Ends Lobbying Effort to Address Subsidies  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 |     |   |    |    |
 | **2014** | Events | Visual | Source|
 | Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
-| Studios  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+| Studios  | Sony's cost-cutting move, SPI transferred its headquarters in Culver City to Vancouver |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  | Double Negative merged with Prime Focus World. The two companies announced the upcoming opening of a Mumbai branch following the merge
+  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Context  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    |
+| Context  |  UK Film Subsidies Cost $3.4 Billion  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://vfxsoldier.wordpress.com/2014/06/25/uk-film-subsidies-cost-3-4-billion/  |
 |    |   |    |    |
 | **2013** | Events | Visual | Source|
 | Film  | Disney’s Frozen wins animation oscar and becomes the top-grossing animated film in box office history | [<img src="https://static3.wikia.nocookie.net/__cb20131002122860/disney/images/5/58/Frozen-movie-poster.jpg" width="150"/>](https://static3.wikia.nocookie.net/__cb20131002122860/disney/images/5/58/Frozen-movie-poster.jpg)  | https://en.wikipedia.org/wiki/Frozen_(2013_film) |
