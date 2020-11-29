@@ -40,7 +40,7 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | **2015**   | Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Studios  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |  first commercial 3G networks were introduced in mid-2001  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+| Technology  |   first commercial 3G networks were introduced in mid-2001  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Context  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 |     |   |    |    |
 | **2014** | Events | Visual | Source|
@@ -65,7 +65,7 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | Film  |     | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Technology  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
-| Context  |    [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+| Context  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
@@ -87,8 +87,8 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | Context  | Global financial crisis (GFC) starts in US  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg)  | https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008 |
 |     |   |    |    |
 | **2007**   |Events | Visual | Source|
-| Film  |    [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
-| Studios  |    [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+| Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+| Studios  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Technology  | |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  |
 | Context  | 12,000 film and television screenwriters went on strike delaying tv and film production |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://www.nytimes.com/2007/11/06/business/media/06strike.html |
 |  |   |    |    |
@@ -99,7 +99,7 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | Context  |  Amazon (Prime) Video starts its streaming video service as Amazon Unbox in the United States |  [<img src="https://sm.pcmag.com/t/pcmag_au/review/a/amazon-pri/amazon-prime-video_z7ud.3840.jpg" width="150"/>](https://sm.pcmag.com/t/pcmag_au/review/a/amazon-pri/amazon-prime-video_z7ud.3840.jpg)  |  |
 |     |   |    |    |
 | **2005**   |  Events | Visual | Source|
-| Film  | Chicken Little, Disney's first 3d animated film is poorly received |  [<https://resizing.flixster.com/DC14rq7OJTqB9tq6qILvqe6NTlA=/206x305/v2/https://flxt.tmsimg.com/assets/p90510_p_v10_aa.jpg" width="150"/>](https://resizing.flixster.com/DC14rq7OJTqB9tq6qILvqe6NTlA=/206x305/v2/https://flxt.tmsimg.com/assets/p90510_p_v10_aa.jpg)  | https://collider.com/disney-chicken-little-history-explained/ |
+| Film  | Chicken Little, Disney's first 3d animated film is poorly received |[<img src="https://resizing.flixster.com/DC14rq7OJTqB9tq6qILvqe6NTlA=/206x305/v2/https://flxt.tmsimg.com/assets/p90510_p_v10_aa.jpg" width="150"/>](https://resizing.flixster.com/DC14rq7OJTqB9tq6qILvqe6NTlA=/206x305/v2/https://flxt.tmsimg.com/assets/p90510_p_v10_aa.jpg)  | https://collider.com/disney-chicken-little-history-explained/ |
 | Studios  | Disney shuts its last studio to create hand-drawn animated features in Australia. 250 staff layed off.   |  [<img src="https://cdn.vox-cdn.com/thumbor/t-A5mE959fGUi5CfEPjXLLzVWoQ=/0x0:726x519/1920x0/filters:focal(0x0:726x519):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15964177/belle_magical_world_disneyscreencaps.com_4366.jpgU" width="150"/>](https://cdn.vox-cdn.com/thumbor/t-A5mE959fGUi5CfEPjXLLzVWoQ=/0x0:726x519/1920x0/filters:focal(0x0:726x519):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15964177/belle_magical_world_disneyscreencaps.com_4366.jpg)  | http://www.abc.net.au/am/content/2005/s1423575.htm |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -108,9 +108,7 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Context  | Secret wage fixing and anti poaching agreement between all major animation facilities until 2010: DreamWork, Digital Domain
-Walt Disney Animation Studios, DisneyToons, Sony Picture Imageworks, Blue Sky Studios, ImageMovers, Laika, Pixar
-Lucasfilm     |  [<img src="https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg" width="150"/>](https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg)  | https://variety.com/2017/biz/news/disney-settlement-wage-fixing-anti-poaching-animation-1201975084/ |
+| Context  | Secret wage fixing and anti poaching agreement between all major animation facilities until 2010: DreamWork, Digital Domain, Walt Disney Animation Studios, DisneyToons, Sony Picture Imageworks, Blue Sky Studios, ImageMovers, Laika, Pixar, Lucasfilm  |  [<img src="https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg" width="150"/>](https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg)  | https://variety.com/2017/biz/news/disney-settlement-wage-fixing-anti-poaching-animation-1201975084/ |
 |    |   |    |    |
 | **2003** | Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -122,8 +120,8 @@ Lucasfilm     |  [<img src="https://assets.pando.com/_versions/2014/07/pixar-job
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  | Star Wars: Episode II-Attack of the Clones became the first major movie to be shot entirely on digital video, even though, back then, it had to be transferred on to 35mm film for most cinemas to show it | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  | NUKE compositing software developed by Digital Domain made available to the public under the banner of D2 Software  | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.pn" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.png)  | https://en.wikipedia.org/wiki/Nuke_(software) |
-| Context  | The Amazon Web Services (AWS) platform launches, In its early stages, the platform consisted of only a few disparate tools and services  | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.pn" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.png)  | https://en.wikipedia.org/wiki/Amazon_Web_Services  |
+| Technology  | NUKE compositing software developed by Digital Domain made available to the public under the banner of D2 Software  | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.png)  | https://en.wikipedia.org/wiki/Nuke_(software) |
+| Context  | Amazon Web Services (AWS) platform launches. In its early stages, the platform consisted of only a few disparate tools and services  | [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f2/NukeApp256.png)  | https://en.wikipedia.org/wiki/Amazon_Web_Services  |
 |    |   |    |    |
 | **2001**   | Events | Visual | Source|
 | Film  | Dreamwork's Shrek wins first ever Academy Award for Best Animated Feature |  [<img src="https://cdn.vox-cdn.com/thumbor/m2shsfcwKnahvhlwTotWfi3JXPc=/0x0:1920x1080/2120x1413/filters:focal(771x381:1077x687):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62206427/shrek.0.jpg" width="150"/>](https://cdn.vox-cdn.com/thumbor/m2shsfcwKnahvhlwTotWfi3JXPc=/0x0:1920x1080/2120x1413/filters:focal(771x381:1077x687):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62206427/shrek.0.jpg)  |  |
@@ -138,26 +136,24 @@ Lucasfilm     |  [<img src="https://assets.pando.com/_versions/2014/07/pixar-job
 | **2000** | Events  | Visual | Source|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  | Disney closes their studios in Vancouver and Toronto. Some 400 plus people were laid off. |  [<img src="https://cdn.betakit.com/wp-content/uploads/2020/05/toronto.jpg" width="150"/>](https://cdn.betakit.com/wp-content/uploads/2020/05/toronto.jpg)  |  |
-| Studios  | Cinar, a successful children's television production companies at the time.[1] The scandal came to light when $122 million (US) was invested into Bahamian bank accounts without the board members' approval. The scandal resulted in Canada's longest criminal trial ever brought before a jury  |  [<img src="https://cdn.betakit.com/wp-content/uploads/2020/05/toronto.jpg" width="150"/>](https://cdn.betakit.com/wp-content/uploads/2020/05/toronto.jpg)  |  | https://en.wikipedia.org/wiki/Cinar_scandal |
+| Studios  | Cinar, a successful children's television production companies at the time. The scandal came to light when $122 million (US) was invested into Bahamian bank accounts without the board members' approval and resulted in Canada's longest criminal trial ever brought before a jury  |  [<img src="https://cdn.betakit.com/wp-content/uploads/2020/05/toronto.jpg" width="150"/>](https://cdn.betakit.com/wp-content/uploads/2020/05/toronto.jpg)  |  | https://en.wikipedia.org/wiki/Cinar_scandal |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    |
 | **1999** |  Events | Visual | Source|
 | Film  |  The Matrix: First use of CG interpolation with bullet time effect, wins 4 Oscars |  [<img src="https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg)  |  |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |   [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Context  |   |    [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 |   |   |    |    |
 | **1998** |  Events | Visual | Source|
-| Film  | Brenda Chapman became the first woman to direct an animated feature from a major studio, DreamWorks Animation's The Prince of Egypt |  [<img src="https://vfxblogsite.files.wordpress.com/2016/09/brendachapman_main-1280x600.jpg" width="150"/>](https://vfxblogsite.files.wordpress.com/2016/09/brendachapman_main-1280x600.jpg)  | https://en.wikipedia.org/wiki/Brenda_Chapman |
-| Studios  |  Dneg (Double Negative) visual effects and computer animation and stereo conversion company founded in London
-Inception, Interstellar, Ex Machina, Blade Runner 2049 and First Man |  [<img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Double_Neagtive_VFX_logo.gif?download" width="150"/>](https://upload.wikimedia.org/wikipedia/en/f/f7/Double_Neagtive_VFX_logo.gif?download)  | https://en.wikipedia.org/wiki/DNEG |
+| Film  | Brenda Chapman became the first woman to direct an animated feature for a major studio, DreamWorks Animation's The Prince of Egypt |  [<img src="https://vfxblogsite.files.wordpress.com/2016/09/brendachapman_main-1280x600.jpg" width="150"/>](https://vfxblogsite.files.wordpress.com/2016/09/brendachapman_main-1280x600.jpg)  | https://en.wikipedia.org/wiki/Brenda_Chapman |
+| Studios  |  Dneg (Double Negative) visual effects and computer animation and stereo conversion company founded in London. Known for Inception, Interstellar, Ex Machina, Blade Runner 2049 and First Man |  [<img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Double_Neagtive_VFX_logo.gif?download" width="150"/>](https://upload.wikimedia.org/wikipedia/en/f/f7/Double_Neagtive_VFX_logo.gif?download)  | https://en.wikipedia.org/wiki/DNEG |
 | Technology  | Maya 1.0 3d animation software released |   [<img src="https://static.wikia.nocookie.net/logopedia/images/2/22/Maya_logo_old.jpg/revision/latest/scale-to-width-down/200?cb=20190909203728" width="150"/>](https://static.wikia.nocookie.net/logopedia/images/2/22/Maya_logo_old.jpg/revision/latest/scale-to-width-down/200?cb=20190909203728)  |  |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 |   |   |    |    |
 | **1997**   |   Events | Visual | Source|
-| Film  |Titanic is a 1997 American epic romance and disaster film directed, written, co-produced, and co-edited by James Cameron
-won 11 Oscars |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://upload.wikimedia.org/wikipedia/en/1/19/Titanic_%28Official_Film_Poster%29.png  | 
+| Film  | "Titanic" is a romance and disaster film directed, written, co-produced, and co-edited by James Cameron, it won 11 Oscars |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://upload.wikimedia.org/wikipedia/en/1/19/Titanic_%28Official_Film_Poster%29.png  | 
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  | Grand Theft Auto, the first game in the series, was released for Microsoft Windows | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  | Netflix Inc. is a content platform and production company headquartered in Los Gatos, California founded |  [<img src="https://cdn.vox-cdn.com/thumbor/leLWpwpCLPkuTlK6BIjRPffLc0I=/0x0:705x344/2120x1413/filters:focal(297x116:409x228):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65979780/netflix-logo-705px.0.png" width="150"/>](https://cdn.vox-cdn.com/thumbor/leLWpwpCLPkuTlK6BIjRPffLc0I=/0x0:705x344/2120x1413/filters:focal(297x116:409x228):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65979780/netflix-logo-705px.0.png)  |  |
@@ -285,14 +281,14 @@ won 11 Oscars |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-p
 |     |   |    |    | 
 | **1977**   |    |    |
 | Film  |  Georg Lucas/ Star wars releases. The sucess of the first Star Wars film spawned a number of different prequels, sequels, standalone films, animated films, television series, and merchandise | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://en.wikipedia.org/wiki/List_of_Star_Wars_films  |
-| Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    | 
 | **1976** |    |    |
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  | Original 1976 Apple I computer PCB released  |   |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LCM%2BL_Working_Apple_I.jpg/1920px-LCM%2BL_Working_Apple_I.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LCM%2BL_Working_Apple_I.jpg/1920px-LCM%2BL_Working_Apple_I.jpg)  |  |
+| Technology  | Original 1976 Apple I computer PCB released  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LCM%2BL_Working_Apple_I.jpg/1920px-LCM%2BL_Working_Apple_I.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LCM%2BL_Working_Apple_I.jpg/1920px-LCM%2BL_Working_Apple_I.jpg)  |  |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    |
 | **1975**   |    |    |
@@ -308,54 +304,54 @@ won 11 Oscars |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-p
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    |
 | **1973** |    |    |
-| Film  |   |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    | 
 | **1972** |    |    |
-| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Studios  |  Aardman Animation in Bristol was founded  to realise their dream of producing an animated motion picture |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
+| Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  |  Aardman Animation in Bristol was founded for producing an animated motion pictures |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1970** |   Events  | Visual | Source|
-| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  | MPC London established starting as a production company producing TV commercials and in 1974 the studio began delving into video  |  [<img src="https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg" width="150"/>](https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg)  | https://en.wikipedia.org/wiki/Moving_Picture_Company |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 |     |   |    |    | 
 | **1969** |    |    |
-| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  | The United States' Apollo 11 is the first crewed mission to land on the Moon | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/520px-Aldrin_Apollo_11_original.jpg | 
 |     |   |    |    | 
 | **1968** |    |    |
 | Film  | A Space Odyssey is a science fiction film produced and directed by Stanley Kubrick  |  [<img src="https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp" width="150"/>](https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp)  |  |
-| Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Studios  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Technology  |  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    | 
 | **1966** |    |    |
-| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Film  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Technology  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    |  
 | **1962** |    |    |
-| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Studios  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
+| Film  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Technology  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Context  |  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |     |   |    |    |  
 | **1957** |  Events | Visual | Source|
-| Film  |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Studios  | Hanna-Barbera Animation (The Flintstones, The Yogi Bear Show, The Jetsons, Wacky Races, Scooby-Doo, Where Are You!, The Smurfs and Snorks) founded. In 1996, Hanna-Barbera became a subsidiary of Warner Bros. Animation  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Film  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  | Hanna-Barbera Animation (The Flintstones, The Yogi Bear Show, The Jetsons, Wacky Races, Scooby-Doo, Where Are You!, The Smurfs and Snorks) founded. In 1996, Hanna-Barbera became a subsidiary of Warner Bros. Animation  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Technology  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
@@ -374,8 +370,8 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | **1938** |    |    |
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  | Fleischer Studios moved to Miami, where union presence was much weaker.  |    |    |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| Context  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Technology  |   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Context  |  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |    | Events | Visual | Source|   
 | **1937** |  Events | Visual | Source|
 | Film  | 1st fully animated movie called Snow White and the Seven Dwarfs  |    |    |
@@ -393,7 +389,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1929** |   Events  | Visual | Source|
-| Film  | Academy of Motion Picture Arts and Sciences first recognized the technical contributions of special effects to movies presenting a plaque for "Best Engineering Effects" to the first Best Picture Oscar winner, the World War I flying drama Wings. |     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |
+| Film  | Academy of Motion Picture Arts and Sciences first recognized the technical contributions of special effects to movies presenting a plaque for "Best Engineering Effects" to the first Best Picture Oscar winner, the World War I flying drama Wings. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |   |    |    |
 | Technology  |   |    |    |
 | Context  |  Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. In most countries, it started in 1929 and lasted until the late 1930s. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -413,7 +409,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | **1923**   |  Events | Visual | Source|
 | Film  |   |    |    |
 | Studios  |  Warner Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png " width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
-| Technology  |   |   |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
 | **1921**   |  Events | Visual | Source|
