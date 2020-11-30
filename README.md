@@ -363,7 +363,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | --            | :----------------------        |     :-:     |      --:   |
 | **1941** |     Events  | Visual | Source|
 | Film  |  |    |    |
-| Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. As a famously autocratic employer, Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually pressured into recognising the Screen Cartoonist's Guild (SCG). | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://en.wikipedia.org/wiki/Disney_animators%27_strike"](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   https://en.wikipedia.org/wiki/Disney_animators%27_strike |
+| Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. Walt Disney responded to the 5-week strike by firing many of his animators, but was eventually recognised the Screen Cartoonist's Guild (SCG) | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>] (https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) |   https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1939** | Events | Visual | Source|
@@ -406,7 +406,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    | Events | Visual | Source|   
 | **1927**   |Events | Visual | Source|
-| Film  |  Metropolis expressionist science-fiction drama film directed by Fritz Lang  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Film  |  Metropolis expressionist science-fiction drama film directed by Fritz Lang   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   |    |    | 
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -446,7 +446,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  || [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Context  |  Kodak founded by George Eastman and Henry A. Strong. During most of the 20th century, Kodak held a dominant position in photographic film |[<img src="http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwKS" width="150"/>](http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwK)  | https://en.wikipedia.org/wiki/Kodak  |
+| Context  |  Kodak founded by George Eastman and Henry A. Strong. During most of the 20th century, Kodak held a dominant position in photographic film |[<img src="http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwK" width="150"/>](http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwK)  | https://en.wikipedia.org/wiki/Kodak  |
 
 
 
