@@ -380,7 +380,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 |    | Events | Visual | Source|   
 | **1937** |  Events | Visual | Source|
 | Film  | 1st fully animated movie called Snow White and the Seven Dwarfs  |    |    |
-| Studios  | Employees at Fleischer Studios (Koko the Clown, Betty Boop, and Popeye) embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union | [<img src="https://daily.jstor.org/wp-content/uploads/2020/01/the_great_animation_strike_1050x700.jpg width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png) | https://daily.jstor.org/great-animation-strike||
+| Studios  | Employees at Fleischer Studios (Koko the Clown, Betty Boop, and Popeye) embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union | [<img src="https://daily.jstor.org/wp-content/uploads/2020/01/the_great_animation_strike_1050x700.jpg" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png) | https://daily.jstor.org/great-animation-strike|
 | Technology  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
