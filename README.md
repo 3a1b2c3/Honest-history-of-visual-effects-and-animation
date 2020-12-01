@@ -1,6 +1,7 @@
 ## A more honest history of visual effects and animation
 
-Film has always been a risky buissnes even in the "golden age". Let's not just have a glamorous version of its history with awards and box office records.
+Film has always been a risky and unstable buissnes, even in the "golden age". 
+Let's not just have a glamorous version of its history with awards and box office records.
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
 Feel free to edit and add. This is missing Japanese animation etc.
 
@@ -8,7 +9,7 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | --            | :----------------------        |     :-:     |      --:   |
 | **2020** | Events  | Visual | Source|
 | Film  | Corona pandemie, cinemas are closed most of the year. Major releases delayed or on streaming services (Mulan, Scoob!, Trolls World Tour) |  [<img src="https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg" width="150"/>](https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg)  | https://www.esquire.com/entertainment/g31871914/movies-streaming-early-coronavirus |
-| Studios  | Framestore buys Company 3 and Method Studios (Los Angeles, Atlanta, Toronto, Vancouver, Pune and Melbourne) |  [<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG" width="150"/>](https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG)  |  https://www.hollywoodreporter.com/behind-screen/major-vfx-landscape-shake-up-framestore-buys-company-3-method  | 
+| Studios  | Framestore buys Company 3 (founded in 1997) and Method Studios (launched in 1999 in Los Angeles) |  [<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG" width="150"/>](https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG)  |  https://www.hollywoodreporter.com/behind-screen/major-vfx-landscape-shake-up-framestore-buys-company-3-method  | 
 | Studios  | Paycuts and layoffs (mostly in Canada) with movie production delayed, within weeks many artists can work from home. Magic Leap Slashes Workforce, Causing 80–120 Animation Job Losses Florida and New Zealand. |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://www.cartoonbrew.com/artist-rights/labor-activists-call-out-technicolor-for-hundreds-of-vfx-layoffs-in-montreal-190191.html  | 
 | Studios  | Weta digital and Weta workshop conduct separate investigations into workplace harassment claims |  [<img src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555436200/shape/mentalfloss/weta.png" width="150"/>](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555436200/shape/mentalfloss/weta.png)  |  https://www.stuff.co.nz/entertainment/122804210/weta-digital-calls-in-qc-after-sexual-harassment-allegations | 
 | Technology  |  Virtual production focus | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -326,7 +327,7 @@ Feel free to edit and add. This is missing Japanese animation etc.
 | --            | :----------------------        |     :-:     |      --:   |
 | **1970** |   Events  | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  | MPC London established starting as a production company producing TV commercials and in 1974 the studio began delving into video  |  [<img src="https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg" width="150"/>](https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg)  | https://en.wikipedia.org/wiki/Moving_Picture_Company |
+| Studios  | MPC London (Subsidary of Technicolor) established starting as a production company producing TV commercials and in 1974 the studio began delving into video  |  [<img src="https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg" width="150"/>](https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg)  | https://en.wikipedia.org/wiki/Moving_Picture_Company |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 |     |   |    |    | 
@@ -365,7 +366,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | --            | :----------------------        |     :-:     |      --:   |
 | **1941** |     Events  | Visual | Source|
 | Film  |  |    |    |
-| Studios  |  Disney animators' strike reflected anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. Walt Disney responds to the 5-week strike by firing many of his animators, but was eventually recognised the Screen Cartoonist's Guild (SCG) | 
+| Studios  |  Disney animators' strike reflects anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. Walt Disney responds to the 5-week strike by firing many of his animators, but eventually recognised the Screen Cartoonist's Guild (SCG) | 
 [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) |  https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
@@ -409,7 +410,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    | Events | Visual | Source|   
 | **1927**   |Events | Visual | Source|
-| Film  |  Metropolis expressionist science-fiction drama film directed by Fritz Lang   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Film  |  "Metropolis" expressionist science-fiction drama film directed by Fritz Lang   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   |    |    | 
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
