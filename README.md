@@ -2,8 +2,10 @@
 
 Film has always been a risky and unstable buissnes, even in the "golden age". 
 Let's not just have a glamorous version of its history with awards and box office records.
+
+
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
-Feel free to edit and add. This is missing Japanese animation etc.
+This is WIP, please feel free to edit and add. This is missing Japanese animation etc.
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
