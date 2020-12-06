@@ -227,7 +227,10 @@ This is WIP, please feel free to edit and add. This is missing Japanese animatio
 | **1988** |   Events | Visual | Source|
 | Film  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Technology  |  Softimage Inc. launched the Creative Environment 1.0.  
+The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs in Jurassic Park (see 1993). Microsoft acquired Softimage Inc. 1994, to Avid in and  2008, Autodesk acquired the Softimage application from Avid and dicontinued it   
+ | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://www.digitalartsonline.co.uk/features/motion-graphics/long-lonely-death-of-softimage/
+ |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    |
 | **1987**  |   |    |    |
@@ -387,12 +390,16 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | --            | :----------------------        |     :-:     |      --:   |
 | **1942** |     Events  | Visual | Source|
 | Film  | Citizen Kane       | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Film  |  Disney's 5th full length fature is "Bambi" an animated drama film | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Film  |  Disney's 5th full length fature is "Bambi" an animated drama film, Retta Scott becomes the first woman to receive screen credit as an animator at the Walt Disney Animation Studios | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Retta_Scott | 
 | Studios  |  | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **1941** |     Events  | Visual | Source|
 | Film  | Disney's "Dumbo" is made to recoup the financial losses of both Pinocchio and Fantasia | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  Disney animators' strike reflects anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. Walt Disney responds to the 5-week strike by firing many of his animators, but eventually recognised the Screen Cartoonist's Guild (SCG) | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| **1940** |     Events  | Visual | Source|
+| Film  | Fantasia  represented Disney's boldest experiment to date. Bringing to life his vision of blending animated imagery with classical music. While acclaimed by critics, it failed to make a profit  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  |   | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1939** | Events | Visual | Source|
@@ -488,9 +495,8 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Context  |  Kodak founded by George Eastman and Henry A. Strong. During most of the 20th century, Kodak held a dominant position in photographic film |[<img src="http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwK" width="150"/>](http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwK)  | https://en.wikipedia.org/wiki/Kodak  |
 
 <a name="custom_anchor_name"></a>
-# some header
 
-Now, link to it with:
+
 
 [click here to jump to my anchor](#custom_anchor_name)
 
