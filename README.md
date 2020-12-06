@@ -227,16 +227,13 @@ This is WIP, please feel free to edit and add. This is missing Japanese animatio
 | **1988** |   Events | Visual | Source|
 | Film  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |  Softimage Inc. launched the Creative Environment 1.0.  
-The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs in Jurassic Park (see 1993). Microsoft acquired Softimage Inc. 1994, to Avid in and  2008, Autodesk acquired the Softimage application from Avid and dicontinued it   
- | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://www.digitalartsonline.co.uk/features/motion-graphics/long-lonely-death-of-softimage/
- |
+| Technology  |  Softimage Inc. launched the Creative Environment 1.0. The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs in Jurassic Park (see 1993). Microsoft acquired Softimage Inc. 1994, to Avid in and  2008, Autodesk acquired the Softimage application from Avid and dicontinued it in 2015 | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://www.digitalartsonline.co.uk/features/motion-graphics/long-lonely-death-of-softimage/ |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    |
 | **1987**  |   |    |    |
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  | Weta Workshop is founded by Richard Taylor and Tania Rodger in New Zealand | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  | Rhythm and Hues Studios founded Los Angeles |  [<img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Rhythm_hues_studios.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/b/b6/Rhythm_hues_studios.jpg)  |  |
+| Studios  | Rhythm and Hues Studios founded Los Angeles (see 2013 for bankrupcy |  [<img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Rhythm_hues_studios.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/b/b6/Rhythm_hues_studios.jpg)  |  |
 | Studios  | Blue Sky Studios animation founded in New York State (see 2019 for sale)  |  [<img src="https://www.denofgeek.com/wp-content/uploads/2012/06/174182.jpg?resize=640%2C432" width="150"/>](https://www.denofgeek.com/wp-content/uploads/2012/06/174182.jpg?resize=640%2C432)  |  |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
@@ -257,7 +254,7 @@ The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs
 | **1984**  |   |    |    |
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Technology  | Wavefront Technologies founded in Santa Barbara as a computer graphics company that developed and sold animation software. In 1995, Wavefront Technologies was purchased by Kroyer Films, Silicon Graphics (see 1987), Rhythm & Hues (see 1987) and merged with Alias Research to form Alias|Wavefront. What partially motivated this merger was Microsoft's purchase of Alias and Wavefront's competitor Softimage. SGI saw Microsoft's entrance into the market as a threat and merged Alias and Wavefront to compete with Microsoft. Alias is now owned by Autodesk | [<img src="https://www.uidownload.com/files/371/690/383/alias-wavefront.jpg" width="150"/>](https://www.uidownload.com/files/371/690/383/alias-wavefront.jpg)  | https://en.wikipedia.org/wiki/Wavefront_Technologies  |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |    |   |    |    |
 | **1983**  |   |    |    |
@@ -267,7 +264,7 @@ The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    |
 | **1982**   |    |    |
-| Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Film  | TRON science fiction action-adventure film was a moderate success at the box office, and it received positive reviews from critics who praised the groundbreaking visuals and acting. Nominated but won no Oscar  | [<img src="https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg" width="150"/>](https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg)  | https://en.wikipedia.org/wiki/Tron  |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    
@@ -299,7 +296,7 @@ The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    | 
 | **1977**   |    |    |
-| Film  |  Georg Lucas/ Star wars releases. The success of the first Star Wars film spawned prequels, sequels, standalone films, animated films, television series, and merchandise | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://en.wikipedia.org/wiki/List_of_Star_Wars_films  |
+| Film  |  Georg Lucas first  Star wars releases. The success of the first Star Wars film spawned prequels, sequels, standalone films, animated films, television series, and merchandise | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://en.wikipedia.org/wiki/List_of_Star_Wars_films  |
 | Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
@@ -319,7 +316,7 @@ The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs
 | **1974**   |    |    |
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |  Meads and Bob Schiffman organized the first annual SIGGRAPH conference (Special Interest Group on Computer Graphics and Interactive Techniques) |  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/ACM_SIGGRAPH_logo.svg/2560px-ACM_SIGGRAPH_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/ACM_SIGGRAPH_logo.svg/2560px-ACM_SIGGRAPH_logo.svg.png)  |  |
+| Technology  |  Meads and Bob Schiffman organized the first annual SIGGRAPH(#siggraph) conference (Special Interest Group on Computer Graphics and Interactive Techniques) |  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/ACM_SIGGRAPH_logo.svg/2560px-ACM_SIGGRAPH_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/ACM_SIGGRAPH_logo.svg/2560px-ACM_SIGGRAPH_logo.svg.png)  |  |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
 |     |   |    |    |
 | **1973** |    |    |
@@ -330,7 +327,7 @@ The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs
 |     |   |    |    | 
 | **1972** |    |    |
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  Aardman Animation in Bristol was founded for producing an animated motion pictures |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
+| Studios  |  Aardman Animation in Bristol founded for producing an animated motion pictures |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 
@@ -350,7 +347,7 @@ The system was used by Industrial Light and Magic (ILM) to animate the dinosaurs
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/520px-Aldrin_Apollo_11_original.jpg | 
 |     |   |    |    | 
 | **1968** |    |    |
-| Film  | A Space Odyssey is a science fiction film produced and directed by Stanley Kubrick  |  [<img src="https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp" width="150"/>](https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp)  |  |
+| Film  | "A Space Odyssey" is a science fiction film produced and directed by Stanley Kubrick  |  [<img src="https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp" width="150"/>](https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp)  |  |
 | Studios  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Technology  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
@@ -377,7 +374,7 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 |     |   |    |    |  
 | **1957** |  Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  | Hanna-Barbera Animation (The Flintstones, The Yogi Bear Show, The Jetsons, Wacky Races, Scooby-Doo, Where Are You!, The Smurfs and Snorks) founded. In 1996, Hanna-Barbera became a subsidiary of Warner Bros. Animation  |[<img src="https://static.wikia.nocookie.net/cartoonnetwork/images/a/a0/Hanna-Barbera_1994.jpg/revision/latest/scale-to-width-down/960?cb=20160412204814" width="150"/>](https://static.wikia.nocookie.net/cartoonnetwork/images/a/a0/Hanna-Barbera_1994.jpg/revision/latest/scale-to-width-down/960?cb=20160412204814)  |  | 
+| Studios  | Hanna-Barbera Animation (known for The Flintstones, The Yogi Bear Show, The Jetsons, Wacky Races, Scooby-Doo, Where Are You!, The Smurfs and Snorks) founded. In 1996, Hanna-Barbera became a subsidiary of Warner Bros. Animation  |[<img src="https://static.wikia.nocookie.net/cartoonnetwork/images/a/a0/Hanna-Barbera_1994.jpg/revision/latest/scale-to-width-down/960?cb=20160412204814" width="150"/>](https://static.wikia.nocookie.net/cartoonnetwork/images/a/a0/Hanna-Barbera_1994.jpg/revision/latest/scale-to-width-down/960?cb=20160412204814)  |  | 
 | Technology  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 
@@ -398,7 +395,7 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Studios  |  Disney animators' strike reflects anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. Walt Disney responds to the 5-week strike by firing many of his animators, but eventually recognised the Screen Cartoonist's Guild (SCG) | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **1940** |     Events  | Visual | Source|
-| Film  | Fantasia  represented Disney's boldest experiment to date. Bringing to life his vision of blending animated imagery with classical music. While acclaimed by critics, it failed to make a profit  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Film  | Fantasia(#fantasia) represented Disney's boldest experiment to date bringing to life his vision of blending animated imagery with classical music. While acclaimed by critics, it failed to make a profit  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |   | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
@@ -422,12 +419,12 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 |     |   |    |    |
 | **1935** |   Events | Visual | Source|
 | Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  20th Century Studios founded, 20th Century Fox from 1985 to 2020), bought by Disney in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
+| Studios  |  20th Century Studios(#20century) founded, (named 20th Century Fox from 1985 to 2020), bought by Disney in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
 | Technology  | "Becky Sharp" becomes first “color movie” meaning the first to use the technology of three-color Technicolor  | [<img src="https://www.kinolorber.com/media_cache/images/full/738329231170.jpg" width="150"/>](https://www.kinolorber.com/media_cache/images/full/738329231170.jpg)  | https://en.wikipedia.org/wiki/Becky_Sharp_(film)  |
 | Context  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |     |   |    |    |
 | **1933** |   Events | Visual | Source|
-| Film  | “King Kong” stop motion film becomes a success (see 1976 and 2005 for remakes)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg)  | https://en.wikipedia.org/wiki/King_Kong_(1933_film) | 
+| Film  | “King Kong”(#kingkong1933)  stop motion film becomes a success (see 1976 and 2005 for remakes)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg)  | https://en.wikipedia.org/wiki/King_Kong_(1933_film) | 
 | Studios  |  20th Century Studios founded, 20th Century Fox from 1985 to 2020), bought by Disney in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
 | Technology  |  | [<img src="https://www.kinolorber.com/media_cache/images/full/738329231170.jpg" width="150"/>](https://www.kinolorber.com/media_cache/images/full/738329231170.jpg)  | https://en.wikipedia.org/wiki/Becky_Sharp_(film)  |
 | Context  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
@@ -442,7 +439,7 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 |     |   |    |    |
 | **1928**   |   Events | Visual | Source|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  | Walt Disney Pictures founded in California |  [<img src="https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733" width="150"/>](https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733)  |   |
+| Studios  | Walt Disney(#disney)  Pictures founded in California |  [<img src="https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733" width="150"/>](https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733)  |   |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    | Events | Visual | Source|   
@@ -454,13 +451,13 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 |    | Events | Visual | Source|   
 | **1923**   |  Events | Visual | Source|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  Warner Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
+| Studios  |  Warner(#warner)  Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
 | **1921**   |  Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |  Fleischer Studios founded as animation studio located in New York City (sold to  Paramount in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  |  Fleischer Studios(#fleischer)  founded as animation studio located in New York City (sold to  Paramount in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 
@@ -469,12 +466,12 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | --            | :----------------------        |     :-:     |      --:   |
 | **1915**   |  Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |  Deluxe began as a film processing laboratory which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory in 1915 as part of Fox Film Corporation in Fort Lee, New Jersey (see 2019 for bankruptcy) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
+| Studios  |  Deluxe(#deluxe) began as a film processing laboratory which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory in 1915 as part of Fox Film Corporation in Fort Lee, New Jersey (see 2019 for bankruptcy) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **1912**   |  Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |  Universal Pictures, Paramount Pictures founded in California | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  |  Universal Pictures and Paramount Pictures founded in California | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 
