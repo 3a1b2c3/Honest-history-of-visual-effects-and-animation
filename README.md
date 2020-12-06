@@ -51,8 +51,8 @@ This is WIP, please feel free to edit and add. This is missing Japanese animatio
 | Context  | VFX Trade Association Dissolved, Ends Lobbying Effort to Address Subsidies  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 |     |   |    |    |
 | **2014** | Events | Visual | Source|
-| Film  | American British science fiction film  “Interstellar”directed by Christopher Nolan  wins Best Visual Effects  |  [<img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg)  | https://en.wikipedia.org/wiki/Interstellar_(film)  | 
-| Studios  | In Sony's cost-cutting move, SPI transferred its headquarters in Culver City to Vancouver (opened in 2010) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://en.wikipedia.org/wiki/Sony_Pictures_Imageworks |
+| Film  | American British science fiction film  “Interstellar” directed by Christopher Nolan wins best Visual Effects oscar  |  [<img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg)  | https://en.wikipedia.org/wiki/Interstellar_(film)  | 
+| Studios  | In Sony's cost-cutting move, SPI transferred its headquarters in Culver City to Vancouver (opened in 2010) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sony_Pictures_Imageworks_logo.svg/440px-Sony_Pictures_Imageworks_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sony_Pictures_Imageworks_logo.svg/440px-Sony_Pictures_Imageworks_logo.svg.png)  |  https://en.wikipedia.org/wiki/Sony_Pictures_Imageworks |
 | Studios  | Double Negative merges with Prime Focus World, announces upcoming opening of a Mumbai branch |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  UK Film Subsidies Cost $3.4 Billion  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://vfxsoldier.wordpress.com/2014/06/25/uk-film-subsidies-cost-3-4-billion/  |
@@ -270,7 +270,7 @@ This is WIP, please feel free to edit and add. This is missing Japanese animatio
 | **1981**   |    |    |
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Technology  | Silicon Graphics, Inc high-performance computing manufacturer, producing computer hardware and software. Founded in Mountain View, California was a major supplier of both hardware and software in this market. Through the mid to late-1990s, the rapidly improving performance of commodity Wintel machines began to erode SGI's stronghold in the 3D market. In 2009, SGI filed for Chapter 11 bankruptcy protect | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SGI_wordmark.svg/320px-SGI_wordmark.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SGI_wordmark.svg/320px-SGI_wordmark.svg.png)  | https://en.wikipedia.org/wiki/Silicon_Graphics  |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
@@ -357,6 +357,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_origi
 | Context  | Anti-Vietnam War protests take place in the United States | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  
 https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |  
 |     |   |    |    |  
+| **1964** |    |    |
+| Film  | "Thunderbirds" is a British science-fiction television series created by Gerry and Sylvia Anderson. It was made between 1964 and 1966 using a form of electronic marionette puppetry combined with scale-model special effects sequences  |   [<img src="https://upload.wikimedia.org/wikipedia/en/9/94/Thunderbird5.jpgg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/9/94/Thunderbird5.jpg)  |  | 
+| Studios  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Thunderbirds_(TV_series) | 
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Context  | Anti-Vietnam War protests take place in the United States | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  
+https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |  
+|     |   |    |    | 
 | **1962** |    |    |
 | Film  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
