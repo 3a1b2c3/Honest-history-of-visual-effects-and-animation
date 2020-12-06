@@ -15,7 +15,8 @@ This is WIP, please feel free to edit and add. This is missing Japanese animatio
 | Studios  | Paycuts and layoffs (mostly in Canada) with movie production delayed, within weeks many artists can work from home. Magic Leap slashes workforce, causing 80–120 Animation Job Losses Florida and New Zealand. |  [<img src="https://www.terramanagement.ca/wp-content/uploads/2016/07/BCSSA4.jpg" width="150"/>](https://www.terramanagement.ca/wp-content/uploads/2016/07/BCSSA4.jpg)  | https://www.cartoonbrew.com/artist-rights/labor-activists-call-out-technicolor-for-hundreds-of-vfx-layoffs-in-montreal-190191.html  | 
 | Studios  | [Weta digital](#weta) and [Weta workshop](#wetaworkshop) conduct separate investigations into workplace harassment claims |  [<img src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555436200/shape/mentalfloss/weta.png" width="150"/>](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555436200/shape/mentalfloss/weta.png)  |  https://www.stuff.co.nz/entertainment/122804210/weta-digital-calls-in-qc-after-sexual-harassment-allegations | 
 | Technology  |  Virtual production focus (LED walls and LIDAR scans to create virtual environments) with ‘Gods of Mars’ Becomes First Feature to Fully Embrace Virtual Production | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://variety.com/2020/artisans/news/new-sci-fi-film-god-of-mars-becomes-first-feature-to-fully-embrace-virtual-production-1234829588/  |
-| Context  | Corona pandemie kills at least 1.5 mio people worldwide. China surpasses the US for movie ticket sales for the first time  | [<img src="https://specials-images.forbesimg.com/imageserve/5f64e6d2d8e8c3dea79e0d85/960x0.jpg?cropX1=0&cropX2=7786&cropY1=395&cropY2=4776" width="150"/>](https://specials-images.forbesimg.com/imageserve/5f64e6d2d8e8c3dea79e0d85/960x0.jpg?cropX1=0&cropX2=7786&cropY1=395&cropY2=4776)  | https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
+| Context  | Corona pandemie kills at least 1.5 mio people worldwide | [<img src="https://specials-images.forbesimg.com/imageserve/5f64e6d2d8e8c3dea79e0d85/960x0.jpg?cropX1=0&cropX2=7786&cropY1=395&cropY2=4776" width="150"/>](https://specials-images.forbesimg.com/imageserve/5f64e6d2d8e8c3dea79e0d85/960x0.jpg?cropX1=0&cropX2=7786&cropY1=395&cropY2=4776)  | https://coronavirus.jhu.edu/map.html  |
+| Context  | China surpasses the US for movie ticket sales for the first time  | [<img src="https://specials-images.forbesimg.com/imageserve/5f64e6d2d8e8c3dea79e0d85/960x0.jpg?cropX1=0&cropX2=7786&cropY1=395&cropY2=4776" width="150"/>](https://specials-images.forbesimg.com/imageserve/5f64e6d2d8e8c3dea79e0d85/960x0.jpg?cropX1=0&cropX2=7786&cropY1=395&cropY2=4776)  |  https://www.washingtonpost.com/world/asia_pacific/china-box-office-movies-america/2020/10/20/a9264eae-1293-11eb-a258-614acf2b906d_story.html   |
 |     |  <img width=400/> | <img width=150/> | <img width=150/>|
 | **2019** <a name="2019"></a>| Events | Visual | Source|
 | Film  | [Marvel’s](#marvel) "Avengers: Endgame" surpasses Avatar’s record as the highest-grossing movie of all time. Nominated but wins no Oscar |   [<img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg)  | https://en.wikipedia.org/wiki/Avengers:_Endgame |
@@ -456,11 +457,17 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Film  |  "Metropolis" expressionist science-fiction drama film directed by Fritz Lang   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   |    |    | 
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Context  |  Academy of Motion Pictures Arts and Sciences (AMPAS) founded by Louis B. Mayer, head of Metro-Goldwyn-Mayer (MGM). He said he wanted to create an organization that would mediate labor disputes without unions and improve the industry's image  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+|    |   |    |    | 
+| **1924**  <a name="1923"></a>  |  Events | Visual | Source|<a name="1923"></a>
+| Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  |  MGM was founded in 1924 when the entertainment entrepreneur Marcus Loew gained control of Metro Pictures, Goldwyn Pictures, and Louis B. Mayer Pictures, see 2010 for bankruptcy|  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png"  width="150"/>]https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
+| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|    | Events | Visual | Source|   
+|    |   |    |    | 
 | **1923**  <a name="1923"></a>  |  Events | Visual | Source|<a name="1923"></a>
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  Warner(#warner)  Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
+| Studios  |  Warner<a name="warner">  Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
@@ -475,7 +482,7 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | --            | :----------------------        |     :-:     |      --:   |
 | **1915**  <a name="1915"></a>  |  Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |  Deluxe(#deluxe) begins opertion as a film processing laboratory which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory in 1915 as part of Fox Film Corporation in Fort Lee, New Jersey (see 2019 for bankruptcy) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
+| Studios  |  Deluxe <a name="deluxe"></a>begins opertion as a film processing laboratory which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory in 1915 as part of Fox Film Corporation in Fort Lee, New Jersey (see 2019 for bankruptcy) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **1914**  <a name="1914"></a>  |  Events | Visual | Source|
@@ -485,7 +492,9 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **1912**  <a name="1912"></a>  |  Events | Visual | Source|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |  Universal Pictures and Paramount Pictures founded in California | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  |  Universal<a name="universal"></a> Pictures founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png)  |   |
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  |  Paramount<a name="paramount"></a> Pictures founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png)  |   |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 
@@ -504,13 +513,6 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  || [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  Kodak founded by George Eastman and Henry A. Strong. During most of the 20th century, Kodak held a dominant position in photographic film |[<img src="http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwK" width="150"/>](http://t0.gstatic.com/images?q=tbn:ANd9GcTfe4XCSATDkskjdrgNGOzl8fi8b0NSVTQiVoEphRoxoF60RfwK)  | https://en.wikipedia.org/wiki/Kodak  |
-
-<a name="custom_anchor_name"></a>
-
-
-
-[click here to jump to my anchor](#custom_anchor_name)
-
 
 
 
