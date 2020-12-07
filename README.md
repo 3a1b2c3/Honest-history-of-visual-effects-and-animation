@@ -84,7 +84,7 @@ This is WIP, please feel free to edit and add. This is missing Japanese animatio
 | --            | :----------------------        |     :-:     |      --:   |
 | **2010** <a name="2010"></a>| Events  | Visual | Source|
 | Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  |
-| Studios  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  |
+| Studios  |  Metro-Goldwyn-Mayer (see 1924) files for Chapter 11 bankruptcy with a prepackaged plan for exiting bankruptcy which led to MGM's creditors taking over the company |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer | 
 | Technology  |     |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | |
 | Context  | The "Hobbit law" barres film contractors in New Zealand from collective bargaining and allowed full time workers to be hired as independent contractors. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   https://www.bbc.com/news/world-asia-pacific-11649734 |
 |     |   |    |    |
@@ -461,8 +461,8 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 |    |   |    |    | 
 | **1924**  <a name="1923"></a>  |  Events | Visual | Source|<a name="1923"></a>
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  MGM was founded in 1924 when the entertainment entrepreneur Marcus Loew gained control of Metro Pictures, Goldwyn Pictures, and Louis B. Mayer Pictures, see 2010 for bankruptcy|  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png"  width="150"/>]https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
-| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| Studios  |  MGM founded when entertainment entrepreneur Marcus Loew gained control of Metro Pictures, Goldwyn Pictures, and Louis B. Mayer Pictures, best known for "Bond" films, see 2010 for bankruptcy|  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png"  width="150"/>]https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
+| Technology  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
 | **1923**  <a name="1923"></a>  |  Events | Visual | Source|<a name="1923"></a>
