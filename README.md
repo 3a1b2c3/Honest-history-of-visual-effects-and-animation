@@ -380,20 +380,18 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Technology    |  The first computer game ever is Spacewar!, developed at MIT (Stephen Russell a.o.) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Spacewar%21-PDP-1-20070512.jpg/2560px-Spacewar%21-PDP-1-20070512.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Spacewar%21-PDP-1-20070512.jpg/2560px-Spacewar%21-PDP-1-20070512.jpg)  |  | 
 |     |   |    |    |  
-| **1957** <a name="1957"></a>|  Events | Visual | Source|
+| **1957** <a name="1957"></a>| **Events** | **Visual** | **Source**|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  | Hanna-Barbera<a name="hannabarbera"></a> Animation (known for The Flintstones, The Yogi Bear Show, The Jetsons, Wacky Races, Scooby-Doo, Where Are You!, The Smurfs and Snorks) founded. In 1996, Hanna-Barbera became a subsidiary of Warner Bros. Animation  |[<img src="https://static.wikia.nocookie.net/cartoonnetwork/images/a/a0/Hanna-Barbera_1994.jpg/revision/latest/scale-to-width-down/960?cb=20160412204814" width="150"/>](https://static.wikia.nocookie.net/cartoonnetwork/images/a/a0/Hanna-Barbera_1994.jpg/revision/latest/scale-to-width-down/960?cb=20160412204814)  |  | 
 | Technology  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-
-
-| **1951** <a name="1951"></a>|  Events | Visual | Source|
+| **1951** <a name="1951"></a>| **Events** | **Visual** | **Source**|
 | Film  |  Disney's "Alice in Wonderland" releases  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-|
+
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
-| **1944** <a name="1942"></a> |     Events  | Visual | Source|
+| **1944** <a name="1942"></a> | **Events** | **Visual** | **Source**|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Retta_Scott | 
 | Studios  |  | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
@@ -403,17 +401,17 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Film  |  Disney's 5th full length fature is "Bambi" an animated drama film, Retta Scott becomes the first woman to receive screen credit as an animator at the Walt Disney Animation Studios. Women were mostly relegated to the ink and paint departments, where they would trace and color outlines made by male animators | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Retta_Scott | 
 | Studios  |  | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| **1941** <a name="1941"></a>|     Events  | Visual | Source|
+| **1941** <a name="1941"></a>| **Events** | **Visual** | **Source**|
 | Film  | Disney's "Dumbo" is made to recoup the financial losses of both Pinocchio and Fantasia | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  Disney animators' strike reflects anger at inequities of pay and privileges at the non-unionised Walt Disney Productions. Walt Disney responds to the 5-week strike by firing many of his animators, but eventually recognised the Screen Cartoonist's Guild (SCG) | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| **1940**  <a name="1940"></a> |     Events  | Visual | Source|
+| **1940**  <a name="1940"></a> | **Events** | **Visual** | **Source**|
 | Film  | Disney’s Pinocchio is first animated feature to win a competitive Academy Award — winning two for Best Music  it was initially a box office bomb, mainly due to World War II cutting off the European and Asian markets  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Film  | Disney’s Fantasia<a name="fantasia"></a> represented Disney's boldest experiment to date bringing to life his vision of blending animated imagery with classical music. While acclaimed by critics, it failed to make a profit  | [<img src="https://upload.wikimedia.org/wikipedia/en/1/12/Fantasia-poster-1940.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/1/12/Fantasia-poster-1940.jpg)  | https://en.wikipedia.org/wiki/Fantasia_(1940_film) | 
 | Studios  |   | [<img src="https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg" width="150"/>](https://www.awn.com/sites/default/files/styles/inline_wide/public/image/attached/2586-sito01disneystrikers.jpg) | https://en.wikipedia.org/wiki/Disney_animators%27_strike |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
-| **1939**  <a name="1939"></a> | Events | Visual | Source|
+| **1939**  <a name="1939"></a> | **Events** | **Visual** | **Source**|
 | Film  | The Wizard of Oz  | [<img src="https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg" width="150"/>](https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg)  |  https://www.guinnessworldrecords.com/world-records/highest-box-office-film-gross-inflation-adjusted/?fb_comment_id=843560679016327_1704644409574612 |
 | Film  | "Gone with the Wind" a historical romance film lately critised for its racist story line wins 8 oscars. Inflation-adjusted its still the highest grossing movie ever  | [<img src="https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg" width="150"/>](https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg)  |  https://www.guinnessworldrecords.com/world-records/highest-box-office-film-gross-inflation-adjusted/?fb_comment_id=843560679016327_1704644409574612 |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -426,19 +424,19 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |    | Events | Visual | Source|   
-| **1937** <a name="1937"></a>  |  Events | Visual | Source|<a name="1937"></a>
+| **1937** <a name="1937"></a>  | **Events** | **Visual** | **Source**|
 | Film  | 1st fully animated movie called Snow White and the Seven Dwarfs  |    |    |
 | Studios  | Employees at Fleischer Studios<a name="fleischer"></a> (Koko the Clown, Betty Boop, and Popeye) embark on a five-month strike that led to the first union contracts in animation 35-hour work week, increased wages, paid time off, and of course, recognition of their union | [<img src="https://daily.jstor.org/wp-content/uploads/2020/01/the_great_animation_strike_1050x700.jpg" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png) | https://daily.jstor.org/great-animation-strike|
 | Technology  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
-| **1935**  <a name="1935"></a> |   Events | Visual | Source|
+| **1935**  <a name="1935"></a>| **Events** | **Visual** | **Source**|
 | Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  20th Century Studios<a name="20century"></a> founded, (named 20th Century Fox from 1985 to 2020), bought by Disney in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
 | Technology  | "Becky Sharp" becomes first “color movie” meaning the first to use the technology of three-color Technicolor  | [<img src="https://www.kinolorber.com/media_cache/images/full/738329231170.jpg" width="150"/>](https://www.kinolorber.com/media_cache/images/full/738329231170.jpg)  | https://en.wikipedia.org/wiki/Becky_Sharp_(film)  |
 | Context  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |     |   |    |    |
-| **1933**  <a name="1933"></a> |   Events | Visual | Source|
+| **1933**  <a name="1933"></a>| **Events** | **Visual** | **Source**|
 | Film  | “King Kong”<a name="kingkong33"></a> stop motion film becomes a success (see 1976 and 2005 for remakes)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg)  | https://en.wikipedia.org/wiki/King_Kong_(1933_film) | 
 | Studios  |  20th Century Studios founded  <a name="20thcentury"></a> (named 20th Century Fox from 1985 to 2020), bought by Disney in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
 | Technology  |  | [<img src="https://www.kinolorber.com/media_cache/images/full/738329231170.jpg" width="150"/>](https://www.kinolorber.com/media_cache/images/full/738329231170.jpg)  | https://en.wikipedia.org/wiki/Becky_Sharp_(film)  |
@@ -446,13 +444,13 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
-| **1929** <a name="1929"></a> |   Events  | Visual | Source|
+| **1929** <a name="1929"></a>| **Events** | **Visual** | **Source**|
 | Film  | Academy of Motion Picture Arts and Sciences first recognized the technical contributions of special effects to movies presenting a plaque for "Best Engineering Effects" to the first Best Picture Oscar winner, the World War I flying drama Wings. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Technology  | |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |  Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. In most countries, it started in 1929 and lasted until the late 1930s. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
-| **1928**   <a name="1928"></a>  |   Events | Visual | Source|
+| **1928**   <a name="1928"></a> | **Events** | **Visual** | **Source**|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  | Walt Disney<a name="disney"></a>  Pictures founded in California |  [<img src="https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733" width="150"/>](https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733)  |   |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -464,19 +462,19 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  Academy of Motion Pictures Arts and Sciences (AMPAS) founded by Louis B. Mayer, head of Metro-Goldwyn-Mayer (MGM). He said he wanted to create an organization that would mediate labor disputes without unions and improve the industry's image  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
-| **1924**  <a name="1923"></a>  |  Events | Visual | Source|<a name="1923"></a>
+| **1924**  <a name="1923"></a>  | **Events** | **Visual** | **Source**|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  MGM <a name="mgm"></a>  founded when entertainment entrepreneur Marcus Loew gained control of Metro Pictures, Goldwyn Pictures, and Louis B. Mayer Pictures, best known for "Bond" films, see 2010 for bankruptcy|  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png"  width="150"/>]https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
 | Technology  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
-| **1923**  <a name="1923"></a>  |  Events | Visual | Source|<a name="1923"></a>
+| **1923**  <a name="1923"></a>| **Events** | **Visual** | **Source**|
 | Film  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  Warner<a name="warner">  Bros. Pictures founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
-| **1921** <a name="1921"></a>   |  Events | Visual | Source|<a name="1921"></a>
+| **1921** <a name="1921"></a>  | **Events** | **Visual** | **Source**|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  Fleischer Studios<a name="fleischer"></a> founded as animation studio located in New York City (sold to  Paramount in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |  |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
@@ -485,17 +483,17 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
-| **1915**  <a name="1915"></a>  |  Events | Visual | Source|
+| **1915**  <a name="1915"></a>  | **Events** | **Visual** | **Source**|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  Deluxe <a name="deluxe"></a>begins opertion as a film processing laboratory which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory in 1915 as part of Fox Film Corporation in Fort Lee, New Jersey (see 2019 for bankruptcy) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| **1914**  <a name="1914"></a>  |  Events | Visual | Source|
+| **1914**  <a name="1914"></a>  | **Events** | **Visual** | **Source**|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  Founding of Technicolor in Boston, Technicolor color motion picture processes was the most widely used color process in Hollywood from 1922 to 1952 | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png)  | https://en.wikipedia.org/wiki/Technicolorhttps://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| **1912**  <a name="1912"></a>  |  Events | Visual | Source|
+| **1912**  <a name="1912"></a>  | **Events** | **Visual** | **Source**|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  Universal<a name="universal"></a> Pictures founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png)  |   |
 | Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -507,13 +505,13 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
-| **1893** <a name="1893"></a>   | Events | Visual | Source|
+| **1893** <a name="1893"></a>   | **Events** | **Visual** | **Source**|
 | Film  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Context  |  International Alliance of Theatrical Stage Employees (IATSE) founded, many US animation studios are signed with The Animation Guild, IATSE Local 839 |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  | https://en.wikipedia.org/wiki/The_Animation_Guild,_IATSE_Local_839 |
 |    |   |    |    | 
-| **1888** <a name="1888"></a>  |Events | Visual | Source|
+| **1888** <a name="1888"></a> | **Events** | **Visual** | **Source**|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  || [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
