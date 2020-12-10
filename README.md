@@ -51,7 +51,8 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 | Context  | Pokemon Go, an AR game becomes a smash hit on phones  |  [<img src="https://assets.pokemon.com//assets/cms2/img/video-games/video-games/pokemon_go/inline/inline-01.jpg" width="150"/>](https://assets.pokemon.com//assets/cms2/img/video-games/video-games/pokemon_go/inline/inline-01.jpg)   | https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go |
 |    |   |    |    |
 | **2015**   <a name="2015"></a> | **Events** | **Visual** | **Source**|
-| Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+| Film  |  “Ex Machina”  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
+ | Film  |  Pixar's "Inside Out"  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Studios  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Technology  | First commercial 3G networks were introduced in mid-2001  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   | 
 | Context  | VFX Trade Association Dissolved, Ends Lobbying Effort to Address Subsidies  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
