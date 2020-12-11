@@ -251,8 +251,8 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 |     |   |    |    |
 | **1986** <a name="1986"></a> | **Events** | **Visual** | **Source**|
 | Film  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
- | Studios  | Framestore <a name="framestore"></a>visual effects founded in London |  [<img src="https://d3bzyjrsc4233l.cloudfront.net/company_office/ICON_dblue_2.jpg" width="150"/>](https://d3bzyjrsc4233l.cloudfront.net/company_office/ICON_dblue_2.jpg)  | |
-| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+ | **Studios**  | Framestore <a name="framestore"></a>visual effects founded in London |  [<img src="https://d3bzyjrsc4233l.cloudfront.net/company_office/ICON_dblue_2.jpg" width="150"/>](https://d3bzyjrsc4233l.cloudfront.net/company_office/ICON_dblue_2.jpg)  | |
+| Technology  | The rendering equation is simultaneously introduced into computer graphics by David Immel et al. and James Kajiya. Solving the rendering equation for any given scene is the primary challenge in realistic rendering.   | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Rendering_eq.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/d/d1/Rendering_eq.png)  |  https://en.wikipedia.org/wiki/Rendering_equation |
 | Context  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    |
 | **1985** <a name="1985"></a> | **Events** | **Visual** | **Source**|
