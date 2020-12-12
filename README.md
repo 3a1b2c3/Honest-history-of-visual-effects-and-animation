@@ -277,8 +277,8 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 | **1982**  <a name="1992"></a> | **Events** | **Visual** | **Source**|
 |  **Film** | "Blade Runner" <a name="blade92"></a science fiction film directed by Ridley Scott | [<img src="https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg" width="150"/>](https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg)  | https://en.wikipedia.org/wiki/Tron  |
 | Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   
-| Film  | "TRON" <a name="tron"></a>science fiction action-adventure film was a moderate success at the box office. Critics praised the groundbreaking visuals and acting. Nominated but won no Oscar  | [<img src="https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg" width="150"/>](https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg)  | https://en.wikipedia.org/wiki/Tron  |
-| Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Film  | "TRON" <a name="tron"></a>science fiction action-adventure film depicting the first combination of CGI and live action was a moderate success at the box office. Critics praised the groundbreaking visuals and acting. Nominated but won no Oscar  | [<img src="https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg" width="150"/>](https://en.wikipedia.org/wiki/Tron#/media/File:Tron_poster.jpg)  | https://en.wikipedia.org/wiki/Tron  |
+| **Studios**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Technology**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Context**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    
 |     |   |    |    |
@@ -382,8 +382,11 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | **1962**<a name="1962"></a>  | **Events** | **Visual** | **Source**|
 |  **Film**  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| **Technology**  |  The first computer game ever is Spacewar!, developed at MIT (Stephen Russell a.o.) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| **Technology**  |  The first computer game ever is "Spacewar!", developed at MIT (Stephen Russell a.o.) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Context  |    | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Spacewar%21-PDP-1-20070512.jpg/2560px-Spacewar%21-PDP-1-20070512.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Spacewar%21-PDP-1-20070512.jpg/2560px-Spacewar%21-PDP-1-20070512.jpg)  |  | 
+|     |   |    |    |  
+| **1958** <a name="1957"></a>| **Events** | **Visual** | **Source**|
+|  **Film**  | "Vertigo" features the first computer animation ever   | [<img src="http://annyas.com/screenshots/images/1958/v-ah-17.jpg" width="150"/>](http://annyas.com/screenshots/images/1958/v-ah-17.jpg)  | https://computeranimationhistory-cgi.jimdofree.com/vertigo  | 
 |     |   |    |    |  
 | **1957** <a name="1957"></a>| **Events** | **Visual** | **Source**|
 |  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
