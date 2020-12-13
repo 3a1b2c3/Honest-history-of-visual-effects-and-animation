@@ -499,6 +499,12 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | **Technology**  | |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | **Context**   |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
+| **1919**  <a name="1919"></a>  | **Events** | **Visual** | **Source**|
+|  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  | **United Artists Corporation (UA)** production company founded by **D. W. Griffith, Charlie Chaplin, Mary Pickford, and Douglas Fairbanks**. The studio was premised on allowing actors to control their own interests, rather than being dependent upon commercial studios. UA was repeatedly bought, sold, and restructured over the ensuing century | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/United_Artists_Logo.svg/2880px-United_Artists_Logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/6/67/United_Artists_Logo.svg/2880px-United_Artists_Logo.svg.png)  | https://en.wikipedia.org/wiki/United_Artistsp  |
+
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
