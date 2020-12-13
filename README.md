@@ -1,6 +1,6 @@
 ## A more honest history of visual effects and animation
 
-Film has always been a risky and unstable bussines, even in its "golden age". 
+Film has always been a risky and unstable business, even in its "golden age". 
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
 This is WIP, please feel free to edit and add. This is missing Japanese animation etc. 
 
@@ -10,6 +10,8 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 | Year <img width=20/>| <img width=400/> | <img width=150/>|        |
 | **2020** <a name="2020"></a>| **Events** | **Visual** | **Source**|
 | **Film** |  **Cinemas are closed worldwide** part of the year. Major releases delayed or on streaming services ("Mulan", "Scoob!", "Trolls World Tour") |  [<img src="https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg" width="150"/>](https://variety.com/wp-content/uploads/2020/03/trolls-pic.jpg)  | https://www.esquire.com/entertainment/g31871914/movies-streaming-early-coronavirus |
+
+
 | **Studios**  |  [Framestore](#framestore) buys **Company 3** (founded in 1997) and **Method Studios** (launched in 1999 in Los Angeles, several international locations) from restructured [Deluxe entertainment](#deluxe) (see 2019) |  [<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG" width="150"/>](https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG)  |  https://www.hollywoodreporter.com/behind-screen/major-vfx-landscape-shake-up-framestore-buys-company-3-method  | 
 | Studios  | Paycuts and layoffs (mostly in Canada) with movie production delayed, within weeks many artists can work from home. **Magic Leap** (AR) slashes workforce, causing 80–120 Animation Job losses Florida and New Zealand. |  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png)  | https://www.cartoonbrew.com/artist-rights/labor-activists-call-out-technicolor-for-hundreds-of-vfx-layoffs-in-montreal-190191.html  | 
 | **Studios**  | [Weta digital](#weta) and [Weta workshop](#wetaworkshop) conduct separate investigations into **workplace harassment** claims |  [<img src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555436200/shape/mentalfloss/weta.png" width="150"/>](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555436200/shape/mentalfloss/weta.png)  |  https://www.stuff.co.nz/entertainment/122804210/weta-digital-calls-in-qc-after-sexual-harassment-allegations | 
