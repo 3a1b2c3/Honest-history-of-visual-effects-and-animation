@@ -1,6 +1,6 @@
 ## A more honest history of visual effects and animation
 
-Film has always been a risky and unstable buissnes, even in the "golden age". 
+Film has always been a risky and unstable bussines, even in its "golden age". 
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
 This is WIP, please feel free to edit and add. This is missing Japanese animation etc. 
 
@@ -41,7 +41,7 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 | **Studios**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Technology**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Context**  | [British Columbia](#bc) (Canada) government cuts its very high film and visual effects **tax credits** causing studios to move to Montreal  |  [<img src="https://www.terramanagement.ca/wp-content/uploads/2016/07/BCSSA4.jpg" width="150"/>](https://www.terramanagement.ca/wp-content/uploads/2016/07/BCSSA4.jpgU)  |https://dailyhive.com/vancouver/bc-film-tax-credits-changes  |
-| **Context**  | Animation workers reach a **$100 million settlement** with the Walt [Disney](#disney) Company, [Pixar](#pixar), and [Lucasfilm](#lucasfilm) in a class action lawsuit claiming that the defendants violated antitrust laws by conspiring to set animation wages via non-poaching agreements (see also [2004](#2004) | [<img src="https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg" width="150"/>](https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg)  | https://variety.com/2017/biz/news/disney-settlement-wage-fixing-anti-poaching-animation-1201975084/ |
+| **Context**  | Animation workers reach a **$100 million settlement** with the Walt [Disney](#disney) Company, [Pixar](#pixar), and [Lucasfilm](#lucasfilm) in a class action lawsuit claiming that the defendants violated antitrust laws by conspiring to set animation wages via non-poaching agreements (see also [2004](#2004). Ed Catmull (Pixar) subsequently refuses to apologize. | [<img src="https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg" width="150"/>](https://assets.pando.com/_versions/2014/07/pixar-jobs-wage-fixing1_featured.jpg)  | https://variety.com/2017/biz/news/disney-settlement-wage-fixing-anti-poaching-animation-1201975084/ |
 |    |   |    |    |
 | **2016** <a name="2016"></a>|  Events | Visual | Source|
 | **Film**   |  **"Captain America: Civil War"**, Zootopia,he Jungle Boo The Secret Life of Pets Universal  Batman v Superman: Dawn of Justice  Deadpool | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -349,10 +349,12 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 | **Technology**  | The **Xerox Alto** is the first computer designed from its inception to support an operating system based on a graphical user interface (GUI), later using the desktop metaphor. The first machines were introduced a decade before mass-market **GUI machines** became available. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
 | **Context**  |  Following a prolonged legal struggle Jessie Maple becomes the first African-American woman admitted to the New York camera operators union | [<img src="https://i0.wp.com/www.nywift.org/wp-content/uploads/2018/03/jessie-maple.jpg?w=996&ssl=1" width="150"/>](https://i0.wp.com/www.nywift.org/wp-content/uploads/2018/03/jessie-maple.jpg?w=996&ssl=1)  |    https://en.wikipedia.org/wiki/Jessie_Maple | 
 |     |   |    |    | 
-| **1972**  | Events | Visual | Source|
+| **1972** <a name="1972"></a>  | Events | Visual | Source|
 |  **Film** |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  Aardman Animation in Bristol founded for producing an animated motion pictures |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| **Technology**  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+| **Technology**  | **"A Computer Animated Hand"** short by **Ed Catmull**<a name="catmull"></a> demonstrates a computer animated hand, as well as human faces.
+https://en.wikipedia.org/wiki/Timeline_of_computer_animation_in_film_and_television
+ | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | **Context**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |    | 
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
