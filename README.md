@@ -499,7 +499,8 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 |    |   |    |    | 
 | **1921** <a name="1921"></a>  | **Events** | **Visual** | **Source**|
 |  **Film** |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |  **Fleischer Studios**<a name="fleischer"></a> founded as animation studio located in **New York** City (sold to [ Paramount](#paramount)  in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Studios  |  **Fleischer Studios**<a name="fleischer"></a> founded as animation studio located in **New York** City (sold to [ 
+ ount](#paramount)  in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Technology**  | |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
 | **Context**   |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 
@@ -525,15 +526,16 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | **1912**  <a name="1912"></a>  | **Events** | **Visual** | **Source**|
 |  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  **Universal<a name="universal"></a> Pictures** founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png)  |   |
-| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |  **Paramount<a name="paramount"></a> Pictures** founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png)  |   |
-| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |https://en.wikipedia.org/wiki/Universal_Pictures   |
+| Studios  |  **Paramount<a name="paramount"></a> Pictures** founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png)  | https://en.wikipedia.org/wiki/Paramount_Pictures  |
+| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/Paramount_Pictures   |
 | **Context**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1906** <a name="1906"></a>   | **Events** | **Visual** | **Source**|
-| Film  | The world's first full-length feature film "The Story of the Kelly Gang" made in Melbourne, Australia
- | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://www.guinnessworldrecords.com/world-records/first-feature-film  |
+| Film  | The world's first full-length silent feature film is **"The Story of the Kelly Gang"** made in Melbourne, Australia
+ | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg)  | https://www.guinnessworldrecords.com/world-records/first-feature-film  |
 
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
