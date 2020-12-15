@@ -37,7 +37,8 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 | **Technology**  | **Academy Software Foundation** set up to support open source software development in the industry  | [<img src="https://pbs.twimg.com/profile_images/1239634129899196416/BeuxcM19_400x400.png" width="150"/>](https://pbs.twimg.com/profile_images/1239634129899196416/BeuxcM19_400x400.png)  | https://www.aswf.io/ |
 |    |   |    |    |
 | **2017** <a name="2017"></a>| **Events** | **Visual** | **Source**|
-| **Film**    | **"Ghost in the Shell"** adds to the list of failed manga adaption films and causes “whitewashing” controversy over the casting of Scarlett Johansson  | [<img src="https://upload.wikimedia.org/wikipedia/en/1/11/Ghost_in_the_Shell_%282017_film%29.png width="150"/>](https://upload.wikimedia.org/wikipedia/en/1/11/Ghost_in_the_Shell_%282017_film%29.png)  |  https://www.hollywoodreporter.com/news/why-hollywood-is-mad-manga-892159 |
+| **Film**    | **"
+in the Shell"** adds to the list of failed manga adaption films and causes “whitewashing” controversy over the casting of Scarlett Johansson  | [<img src="https://upload.wikimedia.org/wikipedia/en/1/11/Ghost_in_the_Shell_%282017_film%29.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/1/11/Ghost_in_the_Shell_%282017_film%29.png)  |  https://www.hollywoodreporter.com/news/why-hollywood-is-mad-manga-892159 |
 | **Studios**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Technology**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Context**  | [British Columbia](#bc) (Canada) government cuts its very high film and visual effects **tax credits** causing studios to move to Montreal  |  [<img src="https://www.terramanagement.ca/wp-content/uploads/2016/07/BCSSA4.jpg" width="150"/>](https://www.terramanagement.ca/wp-content/uploads/2016/07/BCSSA4.jpgU)  |https://dailyhive.com/vancouver/bc-film-tax-credits-changes  |
@@ -139,7 +140,7 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 |    |   |    |    |
 | **2003** <a name="2003"></a> | Events | Visual | Source|
 | **Animation** | **"Spirited Away"** by [Studio Gibli](#gibli) becomes first non-English-language film to win the **Oscar for Best Animated Film**   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| **Studios**  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| **Studios**  | **Marza Animation Planet Inc.** is a Japan-based CG animation studio dedicated to making full-length feature film Founded as Sega Sammy VE Animation Studios  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Technology** |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Context**  |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    |
