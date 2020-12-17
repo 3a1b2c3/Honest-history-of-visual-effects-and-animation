@@ -491,15 +491,13 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | **1923**  <a name="1923"></a>| **Events** | **Visual** | **Source**|
 |  **Film**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  **Warner<a name="warner"> Bros. Pictures** founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
-| **Technology**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-|  **Context**   |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    |   |    |    | 
 | **1921** <a name="1921"></a>  | **Events** | **Visual** | **Source**|
 |  **Film** |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  **Fleischer Studios**<a name="fleischer"></a> founded as animation studio located in **New York** City (sold to [ 
  ount](#paramount)  in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Technology**  | |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-| **Context**   |    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
@@ -511,19 +509,15 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1915**  <a name="1915"></a>  | **Events** | **Visual** | **Source**|
-|  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  **Deluxe** <a name="deluxe"></a>begins opertion as a **film processing laboratory** which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory in 1915 as part of [Fox Film Corporation](#21century) in Fort Lee, New Jersey (see 2019 for bankruptcy) | [<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG" width="150"/>](https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
-| **Technology**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|  **Context**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+|    |   |    |    | 
 | **1914**  <a name="1914"></a>  | **Events** | **Visual** | **Source**|
-|  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  Founding of **Technicolor** in Boston. Technicolor color motion picture processes was the most widely used color process in Hollywood from 1922 to 1952 | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png)  | https://en.wikipedia.org/wiki/Technicolor  |
-
-| **Context**    |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| **Context**    |  **World War I** was a global war originating in Europe that lasted from 1914 to  1918. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+|    |   |    |    | 
 | **1912**  <a name="1912"></a>  | **Events** | **Visual** | **Source**|
 |  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  **Universal<a name="universal"></a> Pictures** founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Universal_Studios_2013_Alternative_II.svg/2560px-Universal_Studios_2013_Alternative_II.svg.png)  |   |
-| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |https://en.wikipedia.org/wiki/Universal_Pictures   |
 | Studios  |  **Paramount<a name="paramount"></a> Pictures** founded in California | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1920px-Paramount_Pictures_2020.svg.png)  | https://en.wikipedia.org/wiki/Paramount_Pictures  |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
@@ -535,9 +529,6 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1893** <a name="1893"></a>   | **Events** | **Visual** | **Source**|
-| Film  | | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Technology  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | **Context**  |  **International Alliance of Theatrical Stage Employees (IATSE)** founded, many US animation studios are signed with The Animation Guild, IATSE Local 839 |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  | https://en.wikipedia.org/wiki/The_Animation_Guild,_IATSE_Local_839 |
 |    |   |    |    | 
 | **1888** <a name="1888"></a> | **Events** | **Visual** | **Source**|
