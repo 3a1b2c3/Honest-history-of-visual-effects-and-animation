@@ -452,68 +452,53 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Context  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1935**  <a name="1935"></a>| **Events** | **Visual** | **Source**|
-| Film  |   |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  **20th Century Studios**<a name="20century"></a> founded, (named 20th Century Fox from 1985 to 2020), bought by [Disney](#disney)  in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
 | **Technology**  | **"Becky Sharp"** becomes first “color movie” meaning the first to use the technology of **three-color Technicolor**  | [<img src="https://www.kinolorber.com/media_cache/images/full/738329231170.jpg" width="150"/>](https://www.kinolorber.com/media_cache/images/full/738329231170.jpg)  | https://en.wikipedia.org/wiki/Becky_Sharp_(film)  |
-|  **Context**   |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
+
 |     |   |    |    |
 | **1933**  <a name="1933"></a>| **Events** | **Visual** | **Source**|
 |  **Film**  | **“King Kong”**<a name="kingkong33"></a> stop motion film becomes a success (see [1976](#1976) and [2005](#2005) for remakes)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f3/Kingkongposter.jpg)  | https://en.wikipedia.org/wiki/King_Kong_(1933_film) | 
 | Studios  |  **20th Century Studios** founded  <a name="20thcentury"></a> (named 20th Century Fox from 1985 to 2020), bought by Disney in 2019 | [<img src="https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg" width="150"/>](https://filmschoolrejects.com/wp-content/uploads/2020/02/20th-Century-Studios.jpg)  |   |
 | **Technology**  | | [<img src="https://www.kinolorber.com/media_cache/images/full/738329231170.jpg" width="150"/>](https://www.kinolorber.com/media_cache/images/full/738329231170.jpg)  | https://en.wikipedia.org/wiki/Becky_Sharp_(film)  |
-| Context  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1929** <a name="1929"></a>| **Events** | **Visual** | **Source**|
 |  **Film**  | **[Academy](#academy) of Motion Picture Arts and Sciences** first recognized the technical contributions of special effects to movies presenting a plaque for **"Best Engineering Effects"** to the first Best Picture Oscar winner, the World War I flying drama **"Wings"** | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| **Technology**  | |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |  **Context**  |  **Great Depression aerea** begins. The severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. In most countries, it started in 1929 and lasted until the late 1930s. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |     |   |    |    |
 | **1928**   <a name="1928"></a> | **Events** | **Visual** | **Source**|
-|  **Film** |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  | **Walt Disney<a name="disney"></a> Pictures** founded in California |  [<img src="https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733" width="150"/>](https://static.wikia.nocookie.net/filmguide/images/b/b3/Walt-Disney-Logo.jpg/revision/latest/scale-to-width-down/450?cb=20140815014733)  |   |
-| Technology  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|  **Context**   |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 |    | Events | Visual | Source|   
 | **1927** <a name="1927"></a>   |Events | Visual | Source|
 |  **Film**  |  **"Metropolis"** expressionist science-fiction drama film directed by Fritz Lang   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| Studios  |   |    |    | 
-| **Technology**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-|**Context**    |  **Academy <a name="academy"></a> of Motion Pictures Arts and Sciences** (AMPAS) founded by **Louis B. Mayer**, head of Metro-Goldwyn-Mayer (MGM). He said he wanted to create an organization that would mediate labor disputes without unions and improve the industry's image  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+|**Context**    |  **Academy <a name="academy"></a> of Motion Pictures Arts and Sciences** (AMPAS) founded by **Louis B. Mayer**, head of Metro-Goldwyn-Mayer (MGM). He said he wanted to create an organization that would mediate labor disputes without unions and improve the industry's image  | [<https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Academy_of_Motion_Picture_Arts_and_Sciences_logo.svg/800px-Academy_of_Motion_Picture_Arts_and_Sciences_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Academy_of_Motion_Picture_Arts_and_Sciences_logo.svg/800px-Academy_of_Motion_Picture_Arts_and_Sciences_logo.svg.png)  |  https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences |
 |    |   |    |    | 
 | **1924**  <a name="1923"></a>  | **Events** | **Visual** | **Source**|
 |  **Film**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  **MGM** <a name="mgm"></a>  founded when entertainment entrepreneur Marcus Loew gained control of **Metro Pictures, Goldwyn Pictures, and Louis B. Mayer Pictures**, best known for **"Bond" films**, see [2010](#219)  for bankruptcy|  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png) | https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer |
-
+| Studios  |  **MGM** <a name="mgm"></a> founded when entertainment entrepreneur Marcus Loew gained control of **Metro Pictures, Goldwyn Pictures, and Louis B. Mayer Pictures**, best known for **"Bond" films**, see [2010](#219)  for bankruptcy|  [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Metro-Goldwyn-Mayer_logo.svg/440px-Metro-Goldwyn-Mayer_logo.svg.png) | https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer |
 |    |   |    |    | 
 | **1923**  <a name="1923"></a>| **Events** | **Visual** | **Source**|
 |  **Film**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  **Warner<a name="warner"> Bros. Pictures** founded  in California |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png"  width="150"/>](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warner_Bros._Pictures_2019.png ) | https://en.wikipedia.org/wiki/Warner_Bros._Pictures |
 |    |   |    |    | 
 | **1921** <a name="1921"></a>  | **Events** | **Visual** | **Source**|
-|  **Film** |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  |  **Fleischer Studios**<a name="fleischer"></a> founded as animation studio located in **New York** City (sold to [ 
  ount](#paramount)  in the early 1940s) |  [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
-| **Technology**  | |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  |  |
-
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1919**  <a name="1919"></a>  | **Events** | **Visual** | **Source**|
-|  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
 | Studios  | **United Artists Corporation (UA)** production company founded by **D. W. Griffith, Charlie Chaplin, Mary Pickford, and Douglas Fairbanks**. The studio was premised on allowing actors to control their own interests, rather than being dependent upon commercial studios. UA was repeatedly bought, sold, and restructured over the ensuing century | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/United_Artists_Logo.svg/2880px-United_Artists_Logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/6/67/United_Artists_Logo.svg/2880px-United_Artists_Logo.svg.png)  | https://en.wikipedia.org/wiki/United_Artistsp  |
-
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1915**  <a name="1915"></a>  | **Events** | **Visual** | **Source**|
-| Studios  |  **Deluxe** <a name="deluxe"></a>begins opertion as a **film processing laboratory** which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory in 1915 as part of [Fox Film Corporation](#21century) in Fort Lee, New Jersey (see 2019 for bankruptcy) | [<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG" width="150"/>](https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
+| Studios  |  **Deluxe** <a name="deluxe"></a>begins opertion as a **film processing laboratory** which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory as part of [Fox Film Corporation](#21century) in Fort Lee, New Jersey. See 2019 for bankruptcy | [<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG" width="150"/>](https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
 |    |   |    |    | 
 | **1914**  <a name="1914"></a>  | **Events** | **Visual** | **Source**|
 | Studios  |  Founding of **Technicolor** in Boston. Technicolor color motion picture processes was the most widely used color process in Hollywood from 1922 to 1952 | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png)  | https://en.wikipedia.org/wiki/Technicolor  |
-| **Context**    |  **World War I** was a global war originating in Europe that lasted from 1914 to  1918. | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
+| **Context**    |  **World War I** was a global war originating in Europe that lasted from 1914 to 1918. | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.png/1920px-World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.png/1920px-World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.pngg)  |  https://en.wikipedia.org/wiki/World_War_I |
 |    |   |    |    | 
 | **1912**  <a name="1912"></a>  | **Events** | **Visual** | **Source**|
 |  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
