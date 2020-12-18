@@ -280,6 +280,8 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 |     |   |    |    |
 | **1977** <a name="1977"></a>  | **Events** | **Visual** | **Source**|
 | **Film**  | Director **Georg Lucas** first **"Star wars"** film<a name="starwars"></a> releases. Effects by [ILM](#ilm) used an animated 3D wire-frame graphic for the trench run briefing sequence on Yavin 4. Its success spawned prequels, sequels, standalone films, animated films, television series and merchandise | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://en.wikipedia.org/wiki/List_of_Star_Wars_films  | 
+
+
 |     |   |    |    | 
 | **1976** <a name="1976"></a> | **Events** | **Visual** | **Source**|
 |  **Film**  | **"King Kong"**<a name="kingkong76"></a> remake becomes a sucess despite problems filing its mechanical Kong puppet. (see [1933](#1933) for original and [2005](#2005) for remake) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |   |
@@ -319,9 +321,6 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 | **1969**  <a name="1969"></a> | Events | Visual | Source|
 |  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| **Technology**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| **Context** |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | 
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/520px-Aldrin_Apollo_11_original.jpg | 
 |     |   |    |    | 
 | **1968** <a name="1968"></a> | **Events** | **Visual** | **Source**|
 |  **Film**  | **"2012: A Space Odyssey"** is a science fiction film produced and directed by **Stanley Kubrick**  |  [<img src="https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp" width="150"/>](https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp)  |  |
