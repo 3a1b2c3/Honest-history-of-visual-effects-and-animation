@@ -334,7 +334,7 @@ https://en.wikipedia.org/wiki/Quibi |
 https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |  
 |     |   |    |    |  
 | **1964** <a name="1964"></a> | **Events** | **Visual** | **Source**|
-|  **Film**  | Mary Poppins  | [<img src="http://annyas.com/screenshots/images/1958/v-ah-17.jpg" width="150"/>](http://annyas.com/screenshots/images/1958/v-ah-17.jpg)  |  | 
+|  **Film**  | Mary Poppins  | [<img src="http://annyas.com/screenshots/images/1958/v-ah-17.jpg" width="150"/>](http://annyas.com/screenshots/images/1958/v-ah-17.jpg)  | https://en.wikipedia.org/wiki/Mary_Poppins_(film) | 
 |  **Animation**  | **"Thunderbirds"** is a British science-fiction television series created by Gerry and Sylvia Anderson. It was made between 1964 and 1966 using a form of **electronic marionette puppetry combined with scale-model special effects sequences**  |   [<img src="https://upload.wikimedia.org/wikipedia/en/9/94/Thunderbird5.jpgg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/9/94/Thunderbird5.jpg)  |  | https://en.wikipedia.org/wiki/Thunderbirds_(TV_series) | 
 | **Context**  | Anti-Vietnam War protests take place in the United States | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  
 https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |  
@@ -459,7 +459,7 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1896** <a name="1896"></a>   | **Events** | **Visual** | **Source**|
-| **Context**  | Standardization in film recording came from monopolization of the business by **Eastman and Edison**. Edison filed the 35 mm patent in 1896 and consequently filmmakers using the cheap and **widely-available 35 mm film** |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  |  |
+| **Context**  | Standardization in film recording came from monopolization of the business by **Eastman and Edison**. Edison filed the 35 mm patent in 1896 and consequently filmmakers using the cheap and **widely-available 35 mm film** |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  |  https://en.wikipedia.org/wiki/35_mm_movie_film |
 |    |   |    |    | 
 | **1893** <a name="1893"></a>   | **Events** | **Visual** | **Source**|
 | **Context**  |  **International Alliance of Theatrical Stage Employees (IATSE)** founded, many US animation studios are signed with The Animation Guild, IATSE Local 839 |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  | https://en.wikipedia.org/wiki/The_Animation_Guild,_IATSE_Local_839 |
