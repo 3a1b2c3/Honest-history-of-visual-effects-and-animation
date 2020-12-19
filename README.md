@@ -456,8 +456,12 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
+| **1908** <a name="1908"></a>   | **Events** | **Visual** | **Source**|
+| **Context**  | Creation of the **Edison-backed Motion Picture Patents Company (or the "Edison Trust")** meant that exhibitors were expected to pay fees for Trust-produced films they showed  | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg)  |  |
+|    |   |    |    | 
 | **1906** <a name="1906"></a>   | **Events** | **Visual** | **Source**|
 | **Film**  | The world's first **full-length** silent feature film is **"The Story of the Kelly Gang"** made in Melbourne, Australia  | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg)  | https://www.guinnessworldrecords.com/world-records/first-feature-film  |
+| **Context**  |Nickelodeon was the first type of indoor exhibition space dedicated to showing projected motion pictures in the United States. Usually set up in converted storefronts, these small, simple theaters charged five cents for admission and flourished from about 1905 to 1915 | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg)  |  |
 |    |   |    |    | 
 | **1902** <a name="1902"></a>   | **Events** | **Visual** | **Source**|
 | **Film**  | **A Trip to the Moon** is a French adventure short film directed by film pioneer **Georges Méliès**. It is widely regarded as the **earliest example of the science fiction film genre**  | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Voyage_dans_la_lune_title_card.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/2/2b/Voyage_dans_la_lune_title_card.png)  | https://en.wikipedia.org/wiki/A_Trip_to_the_Moon  |
