@@ -1,4 +1,4 @@
-## A more honest history of visual effects and animation
+## A more honest and complete history of visual effects and animation
 
 Film has always been a risky and unstable business, even in its "golden age". 
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.
@@ -107,8 +107,8 @@ https://en.wikipedia.org/wiki/Quibi |
 | **Context**  | **Global financial crisis** (GFC) starts in the US  |  [<img src="https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/GFC-crash-02.jpg" width="150"/>](https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/GFC-crash-02.jpg)  | https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008 |
 |     |   |    |    |
 | **2007**  <a name="2007"></a> | **Events** | **Visual** | **Source**|
-| **Film** | Zack Synder's * **"300"**  | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Transformers.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Transformers.png)  |https://en.wikipedia.org/wiki/300_(film) | 
-| **Film** | **"Transformers"** is a series of American science fiction action films based on the Transformers franchise which began in the 1980s. [Michael Bay](#bay)  directed the first 5 films: Transformers, Revenge of the Fallen, Dark of the Moon, Age of Extinction, and The Last Knight  | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Transformers.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Transformers.png)  | https://en.wikipedia.org/wiki/Transformers_(film_series)  | 
+| **Film** | Zack Synder's * **"300"**  | [<img src="https://upload.wikimedia.org/wikipedia/en/5/5c/300poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/5/5c/300poster.jpg)  |https://en.wikipedia.org/wiki/300_(film) | 
+| **Film** | **"Transformers"** is a series of American science fiction action films based on the Transformers franchise which began in the 1980s. [Michael Bay](#bay)  directed the first 5 films, the 6th was directed by Travis Knight (Leika) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Transformers.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Transformers.png)  | https://en.wikipedia.org/wiki/Transformers_(film_series)  | 
 | **Studios**  | The Walt [Disney](#disney) Company and **ImageMovers** set up a joint venture animation facility known as ImageMovers Digital, a Marin County-based film company where director [Zemeckis](#zemeckis) would produce and direct 3D animated films using **performance capture technology**. The films very unsuccessful and the facility was shut in [2011](#2011) after production on **"Mars Needs Moms"** resulting in a lay-off of approximately 450 employees |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ImageMovers.svg/2880px-ImageMovers.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ImageMovers.svg/2880px-ImageMovers.svg.png)  |  | 
 | **Studios**  |  [MPC](#mpc) Film creates a new facility in **Vancouver** to take advanatage of local subsidies (see [2019y](#2019) for closure)  |  [<img src="https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg" width="150"/>](https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg)  |    | 
 | **Studios**  |   [Sony Pictures Imageworks](#spi) opens an **Albuquerque, New Mexico** location. The city had hoped that digital media would develop a hub around the company. The office was closed in [2012](#2012). "We offer the company 25 percent film incentives, while **Vancouver** is going to offer them 46 percent. It just makes sense for them."   |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sony_Pictures_Imageworks_logo.svg/440px-Sony_Pictures_Imageworks_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sony_Pictures_Imageworks_logo.svg/440px-Sony_Pictures_Imageworks_logo.svg.png)  |https://www.lamonitor.com/content/sony-pictures-pulling-out-albuquerque   | 
@@ -336,6 +336,8 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 |     |   |    |    |  
 | **1958** <a name="1957"></a>| **Events** | **Visual** | **Source**|
 |  **Film**  |<a name=" hitchcock"></a> Hitchcock's **"Vertigo"** features the first computer animation in a film in the **title sequence**  | [<img src="http://annyas.com/screenshots/images/1958/v-ah-17.jpg" width="150"/>](http://annyas.com/screenshots/images/1958/v-ah-17.jpg)  | https://computeranimationhistory-cgi.jimdofree.com/vertigo  | 
+| **1957** <a name="1957"></a>| **Events** | **Visual** | **Source**|
+|  **Film**  | **Godzilla**   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 |     |   |    |    |  
 | **1957** <a name="1957"></a>| **Events** | **Visual** | **Source**|
 |  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
@@ -416,6 +418,7 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | **Studios**  |  **Deluxe** <a name="deluxe"></a>begins opertion as a **film processing laboratory** which was part of a conglomeration owned and operated by producer William Fox in the early 1900s. Fox established the De Luxe laboratory as part of [Fox Film Corporation](#21century) in Fort Lee, New Jersey. See 2019 for bankruptcy | [<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG" width="150"/>](https://upload.wikimedia.org/wikipedia/en/3/3e/New_method_logo_for_wiki.JPG)  | https://en.wikipedia.org/wiki/Deluxe_Entertainment_Services_Group  |
 |    |   |    |    | 
 | **1914**  <a name="1914"></a>  | **Events** | **Visual** | **Source**|
+| **Film**  | **Gertie the Dinosaur** | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png)  | https://en.wikipedia.org/wiki/Technicolor  |
 | Studios  |  Founding of **Technicolor** in Boston. Technicolor color motion picture processes was the most widely used color process in Hollywood from 1922 to 1952 | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png)  | https://en.wikipedia.org/wiki/Technicolor  |
 | **Context**    |  **World War I** was a global war originating in Europe that lasted from 1914 to 1918. | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.png/1920px-World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.png" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.png/1920px-World_War_1_-_Mobilized_forces_per_total_population_%28in_%25%29.pngg)  |  https://en.wikipedia.org/wiki/World_War_I |
 |    |   |    |    | 
@@ -427,7 +430,9 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | --            | :----------------------        |     :-:     |      --:   |
 | **1906** <a name="1906"></a>   | **Events** | **Visual** | **Source**|
 | **Film**  | The world's first full-length silent feature film is **"The Story of the Kelly Gang"** made in Melbourne, Australia  | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg)  | https://www.guinnessworldrecords.com/world-records/first-feature-film  |
-
+| --            | :----------------------        |     :-:     |      --:   |
+| **1906** <a name="1906"></a>   | **Events** | **Visual** | **Source**|
+| **Film**  | **A Trip to the Moon** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/0/03/The_Story_of_the_Kelly_Gang_-_Poster.jpg)  | https://www.guinnessworldrecords.com/world-records/first-feature-film  |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
