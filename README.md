@@ -6,7 +6,7 @@ This is WIP, please feel free to edit and add. This is missing a lot of old hist
 
 Since there are thousands of companies in the field this is selection only, a great overview can be found here
 https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimationStudiosLifespanGanttContracts_15979703497480/TopVFXandAnimationStudioLifespans
-for a lit of effect films see https://en.wikipedia.org/wiki/Visual_Effects_Society
+for a list of effect films see https://en.wikipedia.org/wiki/Visual_Effects_Society
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
@@ -288,6 +288,7 @@ https://en.wikipedia.org/wiki/Quibi |
 |     |   |    |    |
 | **1977** <a name="1977"></a>  | **Events** | **Visual** | **Source**|
 | **Film**  | Director **Georg Lucas** first **"Star wars"** film<a name="starwars"></a> releases. Effects by [ILM](#ilm) used an animated 3D wire-frame graphic for the trench run briefing sequence on Yavin 4. Its success spawned prequels, sequels, standalone films, animated films, television series and merchandise | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://en.wikipedia.org/wiki/List_of_Star_Wars_films  | 
+| **Technology**  | **VHS (short for Video Home System)** is a standard for consumer-level analog video recording on tape cassettes. Developed by Victor Company of Japan (JVC) in the early 1970s, it was released in **Japan 1976, and in the United States in 1977** |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LCM%2BL_Working_Apple_I.jpg/1920px-LCM%2BL_Working_Apple_I.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LCM%2BL_Working_Apple_I.jpg/1920px-LCM%2BL_Working_Apple_I.jpg)  |   |
 |     |   |    |    | 
 | **1976** <a name="1976"></a> | **Events** | **Visual** | **Source**|
 |  **Film**  | **"King Kong"**<a name="kingkong76"></a> remake becomes a sucess despite problems filing its mechanical Kong puppet. (see [1933](#1933) for original and [2005](#2005) for remake) | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/King_Kong_(1976_film)  |
@@ -457,6 +458,9 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
+| **1896** <a name="1896"></a>   | **Events** | **Visual** | **Source**|
+| **Context**  | Standardization in film recording came from monopolization of the business by **Eastman and Edison**. Edison filed the 35 mm patent in 1896 and consequently filmmakers using the cheap and **widely-available 35 mm film** |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  |  |
+|    |   |    |    | 
 | **1893** <a name="1893"></a>   | **Events** | **Visual** | **Source**|
 | **Context**  |  **International Alliance of Theatrical Stage Employees (IATSE)** founded, many US animation studios are signed with The Animation Guild, IATSE Local 839 |[<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS" width="150"/>](http://t1.gstatic.com/images?q=tbn:ANd9GcSyBoFRmQyidbpcCmJ_ETCfhKbIbzhidNQu2CIxqhDeTwDDqtoS)  | https://en.wikipedia.org/wiki/The_Animation_Guild,_IATSE_Local_839 |
 |    |   |    |    | 
