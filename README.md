@@ -299,24 +299,20 @@ https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimation
 |     |   |    |    | 
 | **1972** <a name="1972"></a>  | Events | Visual | Source|
 |  **Film** |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  **Aardman Animation** in Bristol founded for producing an animated motion pictures |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://en.wikipedia.org/wiki/Aardman_Animations |
+| Studios  |  **Aardman Animation** in Bristol founded for producing an animated motion pictures, co-produced some films with DreamWorks. They are most noted for their stop motion work( ***Wallace & Gromit and Shaun the Sheep*** ), though they have also produced both CGI and cel animation|  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU" width="150"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcx5s5c9eCOyaw_TGt49t7BgO0XjoG_mrxw&usqp=CAU)  | https://en.wikipedia.org/wiki/Aardman_Animations |
 | **Technology**  | **"A Computer Animated Hand"** short by **Ed Catmull**<a name="catmull"></a> demonstrates a computer animated hand, as well as human faces | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  https://en.wikipedia.org/wiki/Timeline_of_computer_animation_in_film_and_television | 
 
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **1970** <a name="1970"></a>| **Events** | **Visual** | **Source**|
-| Studios  | **MPC**<a name="mpc"></a> London (Subsidary of Technicolor) established starting as a production company producing TV commercials and in 1974 the studio began delving into video  |  [<img src="https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg" width="150"/>](https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg)  | https://en.wikipedia.org/wiki/Moving_Picture_Company |
+| Studios  | **Moving Picture Company (MPC)**<a name="mpc"></a> London (Subsidary of Technicolor) established starting as a production company producing TV commercials and in 1974 the studio began delving into video, known for Life of Pi, The Jungle Book and Harry Potter and the Deathly Hallows: Part 2  |  [<img src="https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg" width="150"/>](https://we-are-the-makers.com/wp-content/uploads/cache/images/MPC_logo-1/MPC_logo-1-2097032934.jpg)  | https://en.wikipedia.org/wiki/Moving_Picture_Company |
 | **Technology**  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
 | **Context**  | Robotics professor Masahiro Mori describes the concept of **"uncanny valley"** <a name="uncanny"></a>, his observation that as robots appear more humanlike, they become more appealing—but only up to a certain poin. Examples can be found in robotics, 3D computer animations, and lifelike dolls.  | [<img src="https://miro.medium.com/max/1125/1*4y9iLdSL0yRLQPYUQspLFw.jpeg" width="150"/>](https://miro.medium.com/max/1125/1*4y9iLdSL0yRLQPYUQspLFw.jpeg)  | https://sites.tufts.edu/emotiononthebrain/2017/08/16/the-uncanny-valley-and-its-mechanisms/   | 
 
 
-
-|     |   |    |    | 
-| **1969**  <a name="1969"></a> | Events | Visual | Source|
-|  **Film**  |   | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-| Studios  |  | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  |  | 
-|     |   |    |    | 
+| Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
+| --            | :----------------------        |     :-:     |      --:   |
 | **1968** <a name="1968"></a> | **Events** | **Visual** | **Source**|
 |  **Film**  | **"2012: A Space Odyssey"** is a science fiction film produced and directed by **Stanley Kubrick**  |  [<img src="https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp" width="150"/>](https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/merlin_137951508_848022bd-19dc-40e4-89ce-3ab3b3c24847-superJumbo.jpg?quality=90&auto=webp)  |  |
 | **1966** <a name="1955"></a>  | **Events** | **Visual** | **Source**|
@@ -365,7 +361,7 @@ https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War |
 | **Film**  |  [Disney's](#disney) **"Fantasia"**<a name="fantasia"></a> represented [Disney"s](#disney boldest experiment to date bringing to life his vision of blending animated imagery with classical music. While acclaimed by critics, it failed to make a profit  | [<img src="https://upload.wikimedia.org/wikipedia/en/1/12/Fantasia-poster-1940.jpg" width="150"/>](https://upload.wikimedia.org/wikipedia/en/1/12/Fantasia-poster-1940.jpg)  | https://en.wikipedia.org/wiki/Fantasia_(1940_film) | 
 |     |   |    |    |
 | **1939**  <a name="1939"></a> | **Events** | **Visual** | **Source**|
-|  **Film**  | **"The Wizard of Oz"** released  | [<img src="https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg" width="150"/>](https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg)  |  https://www.guinnessworldrecords.com/world-records/highest-box-office-film-gross-inflation-adjusted/?fb_comment_id=843560679016327_1704644409574612 |
+|  **Film**  | **"The Wizard of Oz"** released in Techicolor, tornado and melting efects  | [<img src="https://www.kansas.com/entertainment/movies-news-reviews/8ho1wt/picture1236641/alternates/LANDSCAPE_1140/wicked%20witch.JPG" width="150"/>](https://www.kansas.com/entertainment/movies-news-reviews/8ho1wt/picture1236641/alternates/LANDSCAPE_1140/wicked%20witch.JPG)  | https://www.kansas.com/entertainment/movies-news-reviews/article1236642.html |
 |  **Film** | **"Gone with the Wind"** a historical romance film lately critised for its racist story line wins 8 oscars. Inflation-adjusted its still the **highest grossing movie ever**  | [<img src="https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg" width="150"/>](https://i.ebayimg.com/images/g/eMUAAOSwk~NfXzU4/s-l1600.jpg)  |  https://www.guinnessworldrecords.com/world-records/highest-box-office-film-gross-inflation-adjusted/?fb_comment_id=843560679016327_1704644409574612 |
 | Context  |  **World War II** lasted from 1939 to 1945. It involved the vast majority of the world's countries including all the great powers    | [<img src="https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png" width="150"/>](https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder-300x150.png)  | https://en.wikipedia.org/wiki/World_War_II |
 |     |   |    |    |
