@@ -10,6 +10,7 @@ for a list of effect films see https://en.wikipedia.org/wiki/Visual_Effects_Soci
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
 | --            | :----------------------        |     :-:     |      --:   |
 | **2021** <a name="2021"></a>| **Events** | **Visual** | **Source**|
+| **Studios**  | [Disney](#disney) closes animation studio [Blue Sky Studios](#bss)) after aquiring it in 2019 | [<img src="https://www.adweek.com/wp-content/uploads/2017/12/21st-cent-fox-disney-CONTENT-02-2017.jpg" width="150"/>](https://www.adweek.com/wp-content/uploads/2017/12/21st-cent-fox-disney-CONTENT-02-2017.jpg)  |  https://deadline.com/2021/02/blue-sky-studios-closing-disney-ice-age-franchise-animation-1234690310/|
 | **Studios**  | [Techicolor](#technicolor) sells Post-Production Business ‘To Focus On VFX And Animation’   | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png" width="150"/>](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/2880px-Technicolor_logo.svg.png)  |   https://www.cartoonbrew.com/business/technicolor-sells-post-production-business-to-focus-on-vfx-and-animation-200849.html |
 
 | Year <img width=20/>| <img width=400/> | <img width=150/> | <img width=100/>|
