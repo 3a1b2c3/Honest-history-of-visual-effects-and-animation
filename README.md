@@ -2,7 +2,7 @@
 
 Film has always been a volatile business with **techology rapidly evolving and people's taste in movies being hard to predict**, even in its "golden age". Animation and life action film, gaming as well as computer graphics share a lot of history.<br>
 Having a shared source of history (that also includes the not so glamorous sides) should make it easier to talk about where the industry it at and going.<br>
-This is WIP, please feel free to edit and add. This is missing a lot of old history and Japanese animation etc. 
+This is WIP, please feel free to edit and add. It is missing a lot of old history and Japanese animation etc. 
 
 Since there are thousands of companies in the field this is selection only, a great overview can be found here
 https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimationStudiosLifespanGanttContracts_15979703497480/TopVFXandAnimationStudioLifespans
