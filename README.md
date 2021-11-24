@@ -6,7 +6,8 @@ This is WIP, please feel free to edit and add. It is missing a lot of old histor
 
 Since there are thousands of companies in the field this is selection only, a great overview can be found here
 https://public.tableau.com/profile/jordan.gowanlock#!/vizhome/TopVFXandAnimationStudiosLifespanGanttContracts_15979703497480/TopVFXandAnimationStudioLifespans
-for a list of effect films see https://en.wikipedia.org/wiki/Visual_Effects_Society
+for a list of effect films see https://en.wikipedia.org/wiki/Visual_Effects_Society.
+For a background in low margins (3-5%) of most vfx works see https://nofilmschool.com/2017/05/vfx-artists-underpaid.
 
 An interesting overview of who owns CAD software market
 https://www.linkedin.com/pulse/lobbyist-wars-development-bim-part-5-blackrock-master-artem-boiko/?trackingId=WQ%2Fn6CsDFmdX%2FK5W1MYHkA%3D%3D
